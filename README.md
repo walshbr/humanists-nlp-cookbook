@@ -1,4 +1,4 @@
-Contains materials for a work in progress - "A Humanists Cookbook for Natural Language Processing in Python."
+Contains materials for a work in progress - "A Humanist's Cookbook for Natural Language Processing in Python."
 
 View the book [here](https://nbviewer.jupyter.org/github/walshbr/humanists-nlp-cookbook/blob/master/Python%20Cookbook.ipynb). Comments welcome in the issue tracker even though this is still very much a draft.
 
