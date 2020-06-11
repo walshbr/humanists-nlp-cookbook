@@ -1,0 +1,4501 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<!--
+The Project Gutenberg EBook of The Tale of Solomon Owl by Arthur Scott
+Bailey
+
+
+This eBook is for the use of anyone anywhere at no cost and with almost no
+restrictions whatsoever. You may copy it, give it away or re-use it under
+the terms of the Project Gutenberg License included with this eBook or
+online at http://www.gutenberg.org/license
+
+
+
+
+Title: The Tale of Solomon Owl
+
+Author: Arthur Scott Bailey
+
+Release Date: 2005-09 [EBook #16663]
+
+Language: American English
+
+Character set encoding: ISO-8859-1
+-->
+
+<!DOCTYPE TEI.2 SYSTEM "http://www.gutenberg.org/tei/marcello/0.4/dtd/pgtei.dtd">
+
+<TEI.2  lang="en-us">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Tale of Solomon Owl</title>
+                <respStmt><resp>Illustrated by</resp> <name>John Tenniel</name></respStmt>
+                <author><name reg="Bailey, Arthur Scott">Arthur Scott Bailey</name></author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Project Gutenberg</publisher>
+                <date>2005-09</date>
+                <idno type="etext-no">16663</idno>
+                <idno type='DPid'>projectID42dc791b3f533</idno>
+                <availability>
+                        <p>This eBook is for the use of anyone anywhere at no cost and
+                        with almost no restrictions whatsoever. You may copy it, give it
+                        away or re-use it under the terms of the Project Gutenberg
+                        License online at www.gutenberg.org/license</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>unknown</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Produced by Roger Frank
+                and the Online Distributed Proofreading Team at
+                &lt;http://www.pgdp.net/c&gt;.</p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en-us">United States English</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+                <change>
+                  <date value="2005-5">May 2005</date>
+                  <respStmt>
+                    <name>Roger Frank </name>
+                    <name>Online Distributed Proofreading Team</name>
+                  </respStmt>
+                  <item>Project Gutenberg Edition</item>
+                </change>
+    <change>
+      <date value="2006-6">June 2006</date>
+      <respStmt>
+        <name>Joshua Hutchinson</name>
+      </respStmt>
+      <item>Added PGHeader/PGFooter.</item>
+    </change>
+        </revisionDesc>
+    </teiHeader>
+
+<pgExtensions>
+ <pgStyleSheet>
+ .w95	{ }
+ @media pdf {
+ .w95	{ width: 95% }
+ }
+ </pgStyleSheet>
+</pgExtensions>
+
+<text>
+
+<front>
+    <div>
+      <divGen type="pgheader" />
+    </div>
+
+    <titlePage rend="page-break-before: right">
+        <docTitle>
+            <titlePart type="main" rend="font-size: x-large">The Tale of Solomon Owl</titlePart>
+        </docTitle>
+        
+        <byline>
+            <lb />By <docAuthor>Arthur Scott Bailey</docAuthor><lb /><lb />
+            Author of "The Tale of Sandy Chipmunk," "The Tale of Tommy Fox," etc.
+        </byline>
+        
+        <docEdition>
+            <hi rend="font-style: italic">Illustrated by Harry L. Smith</hi><lb /><lb />
+        </docEdition>
+        
+        <docImprint>
+            New York<lb />
+            Grosset &amp; Dunlap<lb />
+            1917
+        </docImprint>
+    </titlePage>
+    
+    <div rend="page-break-before: always">
+        <p rend="text-align: center"><anchor id="image-fp" />
+        <figure rend="w95" url="images/image-fp.jpg">
+        <head rend="text-align: center">Solomon Owl Sat Up And Listened.
+        </head>
+        <figDesc><hi rend="font-style: italic">Frontispiece</hi></figDesc>
+        </figure></p><p></p>
+    </div>
+    <div rend="page-break-before: right">
+
+<index index="pdf" />
+
+<head rend="text-align: center">Contents</head>
+      <divGen type="toc" />
+    </div>
+        
+    <div rend="page-break-before: right">
+        <index index="toc" />
+        <index index="pdf" />
+        <head>Illustrations</head>
+        
+        <list type="simple">
+            <item>
+                <ref target="image-fp">
+                Solomon Owl Sat Up And Listened <hi rend="font-style: italic">Frontispiece</hi>
+                </ref>
+            </item>
+            
+            <item>
+                <ref target="image-001">
+                Solomon Found Mr. Frog's Shop Was Closed</ref>
+            </item>
+            
+            <item>
+                <ref target="image-002">
+                Benjamin Bat Asked Solomon's Advice</ref>
+            </item>
+            
+            <item>
+                <ref target="image-003">
+                <q>It's All Right!</q> Said Solomon</ref>
+            </item>
+        </list>
+    </div>
+</front>
+
+<body>
+<div rend="page-break-before: always">
+<pb n="001" /><anchor id="Pg001" />
+<head>The Tale of Solomon Owl</head>
+<p></p>
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="I - Scaring Johnny Green" />
+<index index="pdf" level1="I - Scaring Johnny Green" />
+<head>I<lb />
+Scaring Johnny Green</head>
+
+<p>
+When Johnnie Green was younger, it always
+scared him to hear Solomon Owl's
+deep-toned voice calling in the woods after
+dark.
+</p>
+
+<pb n="002" /><anchor id="Pg002" />
+<p>
+<q><hi rend="font-style: italic">Whoo-whoo-whoo, whoo-whoo, to-whoo-ah</hi>!</q>
+That weird cry was enough
+to send Johnnie Green hurrying into the
+farmhouse, though sometimes he paused
+in the doorway to listen&mdash;especially if
+Solomon Owl happened to be laughing.
+His <q><hi rend="font-style: italic">haw-haw-hoo-hoo</hi>,</q> booming across
+the meadow on a crisp fall evening, when
+the big yellow moon hung over the fields
+of corn-shocks and pumpkins, sounded almost
+as if Solomon were laughing at the
+little boy he had frightened. There was
+certainly a mocking, jeering note in his
+laughter.
+</p>
+
+<p>
+Of course, as he grew older, Johnnie
+Green no longer shivered on hearing Solomon's
+rolling call. When Solomon
+laughed, Johnnie Green would laugh, too.
+But Solomon Owl never knew that, for
+often he was half a mile from the farm
+buildings.
+</p>
+
+<p>
+A <q>hoot owl,</q> Johnnie Green termed
+him. And anyone who heard Solomon
+hooting of an evening, or just before sunrise,
+would have agreed that it was a good
+name for him. But he was really a <hi rend="font-style: italic">barred</hi>
+owl, for he had bars of white across his
+feathers.
+</p>
+
+<pb n="003" /><anchor id="Pg003" />
+
+<p>
+If you had happened to catch Solomon
+Owl resting among the thick hemlocks
+near the foot of Blue Mountain, where he
+lived, you would have thought that he
+looked strangely like a human being. He
+had no <q>horns,</q> or ear-tufts, such as some
+of the other owls wore; and his great pale
+face, with its black eyes, made him seem
+very wise and solemn.
+</p>
+
+<p>
+In spite of the mild, questioning look
+upon his face whenever anyone surprised
+him in the daytime, Solomon Owl was the
+noisiest of all the different families of owls
+in Pleasant Valley. There were the barn
+owls, the long-eared owls, the short-eared
+owls, the saw-whet owls, the screech owls&mdash;but
+there! there's no use of naming them
+all. There wasn't one of them that could
+equal Solomon Owl's laughing and hooting
+and shrieking and wailing&mdash;at night.
+</p>
+
+<pb n="004" /><anchor id="Pg004" />
+<p>
+During the day, however, Solomon Owl
+he was quiet about it. One reason for his
+silence then was that he generally slept
+when the sun was shining. And when
+most people were sleeping, Solomon Owl
+was as wide awake as he could be.
+</p>
+
+<p>
+He was a night-prowler&mdash;if ever there
+was one. And he could see a mouse on the
+darkest night, even if it stirred ever so
+slightly.
+</p>
+
+<p>
+That was unfortunate for the mice. But
+luckily for them, Solomon Owl couldn't
+be in more than one place at a time. Otherwise,
+there wouldn't have been a mouse
+left in Pleasant Valley&mdash;if he could have
+had <hi rend="font-style: italic">his</hi> way.
+</p>
+
+<p>
+And though he didn't help the mice, he
+helped Farmer Green by catching them.
+If he did take a fat pullet once in a while,
+it is certain that he more than paid for it.
+</p>
+
+<pb n="005" /><anchor id="Pg005" />
+<p>
+So, on the whole, Farmer Green did not
+wood-lot. And for a long time Solomon
+raised no objection to Farmer Green's living
+near Swift River.
+</p>
+
+<p>
+But later Solomon Owl claimed that it
+would be a good thing for the forest folk
+if they could get rid of the whole Green
+family&mdash;and the hired man, too.
+</p>
+</div>
+
+<pb n="006" /><anchor id="Pg006" />
+<div rend="page-break-before: always">
+<index index="toc" level1="II - A Newcomer" />
+<index index="pdf" level1="II - A Newcomer" />
+<head>II<lb />
+A Newcomer</head>
+
+<p>
+Upon his arrival, as a stranger, in Pleasant
+Valley, Solomon Owl looked about
+carefully for a place to live. What he
+wanted especially was a good, <hi rend="font-style: italic">dark</hi> hole,
+for he thought that sunshine was very dismal.
+</p>
+<pb n="007" /><anchor id="Pg007" />
+<p>
+Though he was willing to bestir himself
+enough to suit anybody, when it came to
+<hi rend="font-style: italic">hunting</hi>, Solomon Owl did not like to
+work. He was no busy nest-builder, like
+Rusty Wren. In his search for a house he
+looked several times at the home of old
+Mr. Crow. If it had suited him better,
+Solomon would not have hesitated to take
+that it was altogether <hi rend="font-style: italic">too light</hi> to please
+him.
+</p>
+
+<p>
+That was lucky for old Mr. Crow. And
+the black rascal knew it, too. He had noticed
+that Solomon Owl was hanging about
+the neighborhood. And several times he
+caught Solomon examining his nest.
+</p>
+
+<p>
+But Mr. Crow did not have to worry
+long. For as it happened, Solomon Owl
+at last found exactly what he wanted. In
+an old, hollow hemlock, he came across a
+cozy, dark cavity. As soon as he saw it
+he knew that it was the very thing! So
+he moved in at once. And except for the
+time that he spent in the meadow&mdash;which
+was considerably later&mdash;he lived there for
+a good many years.
+</p>
+
+<pb n="008" /><anchor id="Pg008" />
+<p>
+Once Fatty Coon thought that he would
+drive Solomon out of his snug house and
+live in it himself. But he soon changed
+Solomon Owl&mdash;so Fatty discovered&mdash;had
+sharp, strong claws and a sharp,
+strong beak as well, which curled over his
+face in a cruel hook.
+</p>
+
+<p>
+It was really a good thing for Solomon
+Owl&mdash;the fight he had with Fatty Coon.
+For afterward his neighbors seldom
+troubled him&mdash;except when Jasper Jay
+brought a crowd of his noisy friends to
+tease Solomon, or Reddy Woodpecker annoyed
+him by rapping on his door when he
+was asleep.
+</p>
+
+<p>
+But those rowdies always took good care
+to skip out of Solomon's reach. And when
+Jasper Jay met Solomon alone in the
+woods at dawn or dusk he was most polite
+to the solemn old chap. <hi rend="font-style: italic">Then</hi> it was
+<q>How-dy-do, Mr. Owl!</q> and <q>I hope
+you're well to-day!</q> And when Solomon
+Jasper, that bold fellow always felt quite
+uneasy; and he was glad when Solomon
+Owl looked away.
+</p>
+<pb n="009" /><anchor id="Pg009" />
+
+<p>
+If Solomon Owl chanced to <hi rend="font-style: italic">hoot</hi> on those
+occasions, Jasper Jay would jump almost
+out of his bright blue coat. Then Solomon's
+deep laughter would echo mockingly
+through the woods.
+</p>
+
+<pb n="010" /><anchor id="Pg010" />
+<p>
+You see, though not nearly so wise as
+he appeared, Solomon Owl knew well
+enough how to frighten some people.
+</p>
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="III - Solomon Likes Frogs" />
+<index index="pdf" level1="III - Solomon Likes Frogs" />
+<head>III<lb />
+Solomon Likes Frogs</head>
+
+
+<p>
+It was a warm summer's evening&mdash;so
+warm that Mr. Frog, the tailor, had taken
+his sewing outside his tailor's shop and
+seated himself cross-legged upon the bank
+of the brook, where he sang and sewed
+without ceasing&mdash;except to take a swim
+now and then in the cool water, <q>to stretch
+his legs,</q> as he claimed.
+</p>
+
+<p>
+He was making a new suit of blue
+clothes for Jasper Jay. And since Jasper
+was a great dandy, and very particular
+Mr. Frog was taking special pains with his 
+sewing.
+</p>
+<pb n="011" /><anchor id="Pg011" />
+
+<p>
+Usually he did his work quickly. But
+now after every five stitches that he put
+into his work he stopped to take out ten.
+And naturally he was not getting on very
+fast. He had been working busily since
+early morning; and Jasper Jay's suit was
+further than ever from being finished.
+</p>
+
+<p>
+Since he was a most cheerful person,
+Mr. Frog did not mind that. Indeed, he
+was more than pleased, because the oftener
+he took a swim the fewer stitches he lost.
+So he sang the merriest songs he knew.
+</p>
+
+<p>
+The light was fast fading when a hollow
+laugh startled Mr. Frog. It seemed to
+come from the willow tree right over his
+head. And he knew without looking up
+that it was Solomon Owl's deep voice.
+</p>
+
+<pb n="012" /><anchor id="Pg012" />
+<p>
+Mr. Frog tried to leap into the brook.
+But when he uncrossed his legs, in his
+haste he tangled them up in his sewing.
+And all he could do was to turn a somersault
+backward among some bulrushes,
+hoping that Solomon Owl had not seen
+him.
+</p>
+
+<p>
+It is no secret that Mr. Frog was terribly
+afraid of Solomon Owl. Some of
+Mr. Frog's friends had mysteriously disappeared.
+And they had last been seen
+in Solomon's company.
+</p>
+
+<p>
+As it happened, Mr. Frog had hoped in
+vain. For Solomon Owl only laughed
+more loudly than before. And then he
+said:
+</p>
+
+<p>
+<q>What are you afraid of, Mr. Frog?</q>
+</p>
+
+<p>
+The tailor knew at once that he was
+caught. So he hopped nimbly to his feet
+and answered that there was nothing to
+be afraid of, so far as he could see.
+</p>
+
+<p>
+It was a true statement, too; because
+Mr. Frog had not yet discovered Solomon
+Owl's exact whereabouts.
+</p>
+
+<pb n="013" /><anchor id="Pg013" />
+<p>
+But he learned them soon; for Solomon
+immediately dropped down from the big
+willow and alighted on the bank near Mr.
+Frog&mdash;altogether <hi rend="font-style: italic">too near</hi> him, in fact,
+for the tailor's comfort.
+</p>
+
+<p>
+Solomon looked at Mr. Frog very solemnly.
+And he thought that he shivered.
+</p>
+
+<p>
+<q>What's the matter? Are you ill?</q>
+Solomon Owl inquired. <q>You seem to be
+shaking.</q>
+</p>
+
+<p>
+<q>Just a touch of chills and fever, probably!</q>
+replied Mr. Frog with an uneasy
+smile. <q>You know it's very damp here.</q>
+</p>
+
+<p>
+<q>You don't look in the best of health&mdash;that's
+a fact!</q> Solomon Owl remarked.
+<q>You appear to me to be somewhat green
+in the face.</q> And he laughed once more&mdash;that
+same hollow, mirthless laugh.
+</p>
+
+<p>
+Mr. Frog couldn't help jumping, because
+the sound alarmed him.
+</p>
+
+<p>
+<q>Don't be disturbed!</q> said Solomon
+Owl. <q>I like all the Frog family.</q>
+</p>
+
+<pb n="014" /><anchor id="Pg014" />
+<p>
+At that remark, Mr. Frog started violently
+That was exactly the trouble!
+Solomon Owl was <hi rend="font-style: italic">altogether too fond</hi> of
+frogs, whether they were old or young, big
+or little.
+</p>
+
+<p>
+It was no wonder that Mr. Frog swallowed
+rapidly sixteen times before he
+could say another word.
+</p>
+
+<pb n="015" /><anchor id="Pg015" />
+
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="IV - An Odd Bargain" />
+<index index="pdf" level1="IV - An Odd Bargain" />
+<head>IV<lb />
+ An Odd Bargain</head>
+
+<p>
+While Mr. Frog was swallowing nothing
+rapidly, he was thinking rapidly, too.
+There was something about Solomon
+Owl's big, staring eyes that made Mr.
+Frog feel uncomfortable. And if he had
+thought he had any chance of escaping he
+would have dived into the brook and swum
+under the bank.
+</p>
+
+<p>
+But Solomon Owl was too near him for
+that. And Mr. Frog was afraid his caller
+would pounce upon him any moment. So
+he quickly thought of a plan to save himself.
+<q>No doubt&qdash;</q> he began. But
+Solomon Owl interrupted him.
+</p>
+
+
+<pb n="016" /><anchor id="Pg016" />
+
+<p>
+<q>There!</q> cried Solomon. <q>You <hi rend="font-style: italic">can</hi>
+speak, after all. I supposed you'd swallowed
+your tongue. And I was just waiting
+to see what you'd do next. I thought
+maybe you would swallow your <hi rend="font-style: italic">head</hi>.</q>
+</p>
+
+<p>
+Mr. Frog managed to laugh at the joke,
+though, to tell the truth, he felt more nervous
+than ever. He saw what was in Solomon
+Owl's mind, for Solomon was thinking
+of swallowing Mr. Frog's head himself.
+</p>
+
+<p>
+<q>No doubt&mdash;</q> Mr. Frog resumed&mdash;<q>no
+doubt you've come to ask me to make you
+a new suit of clothes.</q>
+</p>
+
+<p>
+Now, Solomon Owl had had no such idea
+at all. But when it was mentioned to him,
+he rather liked it.
+</p>
+
+<p>
+<q>Will you?</q> he inquired, with a highly
+interested air.
+</p>
+
+<pb n="017" /><anchor id="Pg017" />
+<p>
+<q>Why, certainly!</q> the tailor replied.
+And for the first time since he had turned
+his backward somersault into the bulrushes,
+he smiled widely. <q>I'll tell you
+what I'll do!</q> he said. <q>First, I'll make
+you a coat free. And second, if you like it
+I will then make you a waistcoat and
+trousers, at double rates.</q>
+</p>
+
+<p>
+Solomon Owl liked the thought of getting
+a coat for nothing. But for all that,
+he looked at the tailor somewhat doubtfully.
+</p>
+
+<p>
+<q>Will it take you long?</q> he asked.
+</p>
+
+<p>
+<q>No, indeed!</q> Mr. Frog told him. <q>I'll
+make your coat while you wait.</q>
+</p>
+
+<p>
+<q>Oh, I wasn't going away,</q> Solomon assured
+him with an odd look which made
+Mr. Frog shiver again. <q>Be quick, please!
+Because I have some important business
+to attend to.</q>
+</p>
+
+<pb n="018" /><anchor id="Pg018" />
+<p>
+Mr. Frog couldn't help wondering if it
+wasn't he himself that Solomon Owl was
+going to attend to. In spite of his fears,
+to work to cut up some cloth that hung
+just outside his door.
+</p>
+
+<p>
+<q>Stop!</q> Solomon Owl cried in a voice
+that seemed to shake the very ground.
+<q>You haven't measured me yet!</q>
+</p>
+
+<p>
+<q>It's not necessary,</q> Mr. Frog explained
+glibly. <q>I've become so skilful
+that one look at an elegant figure like
+yours is all that I need.</q>
+</p>
+
+<p>
+Naturally, Mr. Frog's remark pleased
+Solomon Owl. And he uttered ten rapid
+hoots, which served to make Mr. Frog's
+fingers fly all the faster. Soon he was sewing
+Solomon's coat with long stitches; and
+though his needle slipped now and then,
+he did not pause to take out a single stitch.
+For some reason, Mr. Frog was in a great
+hurry.
+</p>
+
+<pb n="019" /><anchor id="Pg019" />
+<p>
+Solomon Owl did not appear to notice
+that the tailor was not taking much pains
+with his sewing. Perhaps Mr. Frog
+worked so fast that Solomon could not see
+what he was doing.
+</p>
+
+<p>
+Anyhow, he was delighted when Mr.
+Frog suddenly cried:
+</p>
+
+<p>
+<q>It's finished!</q> And then he tossed the
+coat to Solomon. <q>Try it on!</q> he said.
+<q>I want to see how well it fits you.</q>
+</p>
+
+<p>
+Solomon Owl held up the garment and
+looked at it very carefully. And as he examined
+it a puzzled look came over his
+great pale face.
+</p>
+
+<p>
+There was something about his new coat
+that he did not understand.
+</p>
+<pb n="020" /><anchor id="Pg020" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="V - The Cold Weather Coat" />
+<index index="pdf" level1="V - The Cold Weather Coat" />
+<head>V<lb />
+The Cold Weather Coat</head>
+
+
+<p>
+Yes! As he held up his new coat and
+looked at it, Solomon Owl was puzzled.
+He turned his head toward Mr. Frog and
+stared at him for a moment. And then he
+turned his head away from the tailor and
+gazed upon the coat again.
+</p>
+
+<p>
+Mr. Frog was most uncomfortable&mdash;especially
+when Solomon looked at <hi rend="font-style: italic">him</hi>.
+</p>
+
+<p>
+<q>Everything's all right, isn't it?</q> he inquired.
+</p>
+
+<p>
+Solomon Owl slowly shook his head.
+</p>
+
+<p>
+<q>This is a queer coat!</q> he said.
+<q>What's this bag at the top of it?</q>
+</p>
+
+<pb n="021" /><anchor id="Pg021" />
+<p>
+<q>Oh!</q> exclaimed Mr. Frog. <q>That's
+the hood! Knowing that you spend your
+winters here in Pleasant Valley, I made a
+hood to go over your head.... You'll
+find it very comfortable in cold weather&mdash;and
+it's the latest style, too. All the winter
+coats this year will have hoods, with
+holes to see through, you know.</q>
+</p>
+
+<p>
+Solomon Owl looked relieved at Mr.
+Frog's explanation. But there was still
+something more that appeared to trouble
+him.
+</p>
+
+<p>
+<q>How shall I get into the coat?</q> he inquired.
+<q>It doesn't open in front, as it
+should.</q>
+</p>
+
+<p>
+<q>Another cold-weather style!</q> Mr.
+Frog assured him. <q>It's wind-proof!
+And instead of buttoning the coat, you
+pull it on over your head.</q>
+</p>
+
+<p>
+Solomon Owl said he didn't like that
+style very well.
+</p>
+
+<pb n="022" /><anchor id="Pg022" />
+<p>
+<q>Then I can easily change it,</q> the tailor
+told him. <q>But just try it on!</q> he urged.
+<q>It may please you, after all.</q>
+</p>
+
+<p>
+So Solomon Owl pulled the coat over his
+head. And it fell down about him, almost
+reaching his feet. But the coat did not
+seem to suit him at all, for he began to
+splutter and choke.
+</p>
+
+<p>
+<q>What's the matter now?</q> Mr. Frog
+asked him.
+</p>
+
+<p>
+<q>I can't see&mdash;that's what's the matter!</q>
+Solomon Owl cried in a voice that sounded
+hollower than ever, because it was muffled
+by the hood, which covered his head.
+</p>
+
+<p>
+<q>I declare&mdash;I haven't cut the holes for
+your eyes!</q> the tailor exclaimed. <q>Just
+wait a moment and I'll make everything
+satisfactory.</q> He clinked his shears together
+sharply as he spoke.
+</p>
+
+<p>
+But Solomon Owl told him that he
+wouldn't <hi rend="font-style: italic">think</hi> of letting anybody use
+shears so near his eyes.
+</p>
+
+<p rend="text-align: center"><anchor id="image-001" />
+<figure rend="w95" url="images/image-001.jpg">
+<head rend="text-align: center">Solomon Found Mr. Frog's Shop Was Closed
+</head>
+<figDesc><hi rend="font-style: italic">Illustration 1</hi></figDesc>
+</figure></p><p></p>
+
+<pb n="023" /><anchor id="Pg023" />
+
+<p>
+<q>I'll take off the coat,</q> he said. <q>And
+I know now that you're a very poor tailor,
+or you wouldn't have made such a mistake.</q>
+He began to tug at the coat. But
+he soon found that taking it off was not so
+easy as putting it on. Solomon's sharp
+claws caught in the cloth; and his hooked
+beak, too, fastened itself in the hood the
+moment he tried to pull the coat over his
+head. <q>Here!</q> he cried to Mr. Frog.
+<q>Just lend me a hand! I can't see to help
+myself.</q>
+</p>
+
+<p>
+But Mr. Frog did not even answer him.
+</p>
+
+<p>
+<q>Don't you hear me?</q> Solomon Owl
+shouted, as he struggled with his new coat,
+only to become tangled in it more than
+ever.
+</p>
+
+<p>
+Still, the tailor said never a word,
+though something very like a giggle, followed
+by a splash, caught Solomon's ear.
+</p>
+
+<p>
+<q>He's left me!</q> Solomon Owl groaned.
+</p>
+
+
+<pb n="024" /><anchor id="Pg024" />
+
+<p>
+<q>Mr. Frog has left me to get out of this
+coat alone. And goodness knows how I'm
+ever a-going to do it.</q> He threshed about
+so vigorously that he tripped himself and
+fell upon the bank of the brook, rolling
+over and over toward the water.
+</p>
+
+<p>
+He had a very narrow escape. If he
+hadn't happened to bring up against an
+old stump he would certainly have tumbled
+into the stream.
+</p>
+
+<p>
+Though Solomon couldn't see, he knew
+that he was in danger. So he lay on his
+back on the ground and carefully tore his
+new coat into strings and ribbons.
+</p>
+
+<p>
+At last he was free. And he rose to his
+feet feeling very sheepish, for he knew
+that Mr. Frog had played a sly trick on
+him.
+</p>
+
+<pb n="025" /><anchor id="Pg025" />
+<p>
+<q>Nevermind!</q> said Solomon Owl, as he
+flew way. <q>I'll come back to-morrow
+and ask Mr. Frog to make me a waistcoat
+and trousers. And then&qdash;</q> He did not
+finish what he was saying. But there is
+no doubt that whatever it was, it could not
+have been very pleasant for Mr. Frog.
+</p>
+
+<p>
+Just as he had planned, Solomon Owl
+returned to the brook the next day. And
+he was both surprised and disappointed
+at what he found.
+</p>
+
+<p>
+The door of Mr. Frog's tailor's shop was
+shut and locked. And on it there was a
+sign, which said:
+</p>
+
+<p>
+TO LET
+</p>
+
+<p>
+<q>He's moved away!</q> cried Solomon
+Owl. And he went off feeling that he had
+been cheated out of a good dinner&mdash;to
+say nothing of a new waistcoat&mdash;and new
+trousers, too.
+</p>
+
+<pb n="026" /><anchor id="Pg026" />
+<p>
+He had not been gone long when the
+door opened. And Mr. Frog leaped nimbly
+outside. He took the sign off the door;
+and sitting down cross-legged upon the
+bank, he began to sew upon Jasper Jay's
+new blue suit, while his face wore a wider
+smile than ever.
+</p>
+
+<p>
+He had suddenly decided not to let his
+shop, after all.
+</p>
+
+
+<pb n="027" /><anchor id="Pg027" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="VI - Solomon Needs a Change" />
+<index index="pdf" level1="VI - Solomon Needs a Change" />
+<head>VI<lb />
+Solomon Needs a Change</head>
+
+<p>
+For some time Solomon Owl had known
+that a queer feeling was coming over him.
+And he could not think what it meant. He
+noticed, too, that his appetite was leaving
+him. Nothing seemed to taste good any
+more.
+</p>
+
+<p>
+So at last, one fine fall evening he went
+to see Aunt Polly Woodchuck, who was an
+herb doctor; for he had begun to worry
+about his health.
+</p>
+
+<pb n="028" /><anchor id="Pg028" />
+<p>
+<q>It's lucky you came to-day,</q> said Aunt
+Polly. <q>Because to-night I'm going to begin
+my winter's nap. And you couldn't
+have seen me again till spring&mdash;unless you
+happened to come here on ground-hog day,
+next February.... What appears to be
+your trouble?</q> she inquired.
+</p>
+
+<p>
+<q>It's my appetite, partly,</q> Solomon
+Owl said. <q>Nothing tastes as it did when
+I was a youngster. And I keep longing
+for something, though what it is I can't
+just tell.</q>
+</p>
+
+<p>
+Aunt Polly Woodchuck nodded her
+head wisely.
+</p>
+
+<p>
+<q>What have you been eating lately?</q>
+she asked.
+</p>
+
+<p>
+Solomon Owl replied that he hadn't
+eaten anything but mice since the leaves
+began to turn.
+</p>
+
+<p>
+<q>H-m&mdash;the leaves are nearly all off the
+trees now,</q> the old lady remarked. <q>How
+many mice have you eaten in that time?</q>
+</p>
+
+<pb n="029" /><anchor id="Pg029" />
+<p>
+Solomon said that as nearly as he could
+remember he had eaten twenty-seven&mdash;or
+a hundred and twenty-seven. He couldn't
+say which&mdash;but one of those numbers was
+correct.
+</p>
+
+<p>
+Aunt Polly Woodchuck threw up her
+hands.
+</p>
+
+<p>
+<q>Sakes alive!</q> she cried. <q>It's no wonder
+you don't feel well! What you need
+is a change of food. And it's lucky you
+came to me now. If you'd gone on like
+that much longer I'd hate to say what
+might have happened to you. You'd have
+had dyspepsia, or some other sort of misery
+in your stomach.</q>
+</p>
+
+<p>
+<q>What shall I do?</q> asked Solomon Owl.
+<q>Insects are scarce at this season of the
+year. Of course, there are frogs&mdash;but I
+don't seem to care for them. And there
+are fish&mdash;but they're not easy to get, for
+they don't come out of the water and sit
+on the bank, as the frogs do.</q>
+</p>
+
+<p>
+<q>How about pullets?</q> Aunt Polly inquired.
+</p>
+
+
+<pb n="030" /><anchor id="Pg030" />
+
+<p>
+At that Solomon Owl let out a long row
+of hoots, because he was pleased.
+</p>
+
+<p>
+<q>The very thing!</q> he cried. <q>That's
+what I've been wanting all this time. And
+I never guessed it.... I'll pay you for
+your advice the next time I see you,</q> he
+told Aunt Polly. And Solomon Owl hurried
+away before she could stop him.
+Since he had no intention of visiting her
+on ground-hog day, he knew it would be
+spring before he saw Aunt Polly Woodchuck
+again.
+</p>
+
+<p>
+The old lady scolded a bit. And it did
+not make her feel any pleasanter to hear
+Solomon's mocking laughter, which grew
+fainter and fainter as he left the pasture
+behind him. Then she went inside her
+house, for she was fast growing sleepy.
+And she wanted to set things to rights before
+she began her long winter's nap.
+</p>
+
+<pb n="031" /><anchor id="Pg031" />
+<p>
+Meanwhile, Solomon Owl roamed restlessly
+through the woods. There was only
+one place in the neighborhood where he
+could get a pullet. That was at Farmer
+Green's chicken house. And for some
+reason he did not care to visit the farm
+buildings until it grew darker.
+</p>
+
+<p>
+So he amused himself by making the
+woods echo with his strange cry, <q><hi rend="font-style: italic">Whoo-whoo-whoo,
+whoo-whoo, to-whoo-ah!</hi></q>
+And now and then he threw in a few
+<q><hi rend="font-style: italic">wha-whas</hi>,</q> just for extra measure.
+</p>
+
+<p>
+Many of the forest folk who heard him
+remarked that Solomon Owl seemed to be
+in extra fine spirits.
+</p>
+
+<p>
+<q>Probably it's the hunter's moon that
+pleases him!</q> Jimmy Rabbit remarked to
+a friend of his. <q>I've always noticed
+that old Solomon makes more noise on
+moonlight nights than at any other time.</q>
+</p>
+
+<pb n="032" /><anchor id="Pg032" />
+<p>
+The hunter's moon, big and yellow and
+round, was just rising over Blue Mountain. 
+But for once it was not the moon
+that made Solomon Owl so talkative. He
+was in fine feather, so to speak, because
+he was hoping to have a fat pullet for his
+supper. And as for the moon, he would
+have been just as pleased had there been
+none at all that night. For Solomon Owl
+never cared to be seen when he visited
+Farmer Green's chicken house.
+</p>
+
+
+<pb n="033" /><anchor id="Pg033" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="VII - The Blazing Eyes" />
+<index index="pdf" level1="VII - The Blazing Eyes" />
+<head>VII<lb />
+The Blazing Eyes</head>
+
+<p>
+It was some three hours after sunset when
+Solomon Owl at last reached Farmer
+Green's place. All was quiet in the
+chicken house because the hens and roosters
+and their families had long since gone
+to roost. And except for a light that shone
+through a window, the farmhouse showed
+not a sign of life.
+</p>
+
+<p>
+Everything was as Solomon Owl wished
+it&mdash;or so he thought, at least, as he alighted
+in a tree in the yard to look about him.
+He wanted no one to interrupt him when
+he should go nosing around the chicken
+house, to find an opening.
+</p>
+
+
+<pb n="034" /><anchor id="Pg034" />
+
+<p>
+To his annoyance, he had not sat long
+in the tree when the wood-shed door opened.
+And Solomon stared in amazement at
+the strange sight he saw.
+</p>
+
+<p>
+A great head appeared, with eyes and
+mouth&mdash;yes! and nose, too&mdash;all a glaring
+flame color. Solomon had never seen
+such a horrible face on man or bird or
+beast. But he was sure it was a man, for
+he heard a laugh that was not to be mistaken
+for either a beast's or a bird's. And
+the worst of it was, those blazing eyes were
+turned squarely toward Farmer Green's
+chicken house!
+</p>
+
+<p>
+Solomon Owl was too wary to go for his
+fat pullet just then. He decided that he
+would wait quietly in the tree for a time,
+hoping that the man would go away.
+</p>
+
+<pb n="035" /><anchor id="Pg035" />
+<p>
+While Solomon watched him the
+stranger neither moved nor spoke. And,
+of course, Solomon Owl was growing hungrier 
+every minute. So at last he felt that
+he simply <hi rend="font-style: italic">must</hi> say something.
+</p>
+
+<p>
+<q>Who-who-who-are-you?</q> he called out
+from his tree.
+</p>
+
+<p>
+But the strange man did not answer.
+He did not even turn his head.
+</p>
+
+<p>
+<q>He must be some city person,</q> Solomon
+Owl said to himself. <q>He thinks he's
+too good to speak to a countryman like
+me.</q>
+</p>
+
+<p>
+Then Solomon sat up and listened. He
+heard a scratching sound. And soon he
+saw a plump figure crawl right up into his
+tree-top.
+</p>
+
+<p>
+It was Fatty Coon!
+</p>
+
+<p>
+<q>What are you doing here?</q> Solomon
+Owl asked in a low voice, which was not
+any too pleasant.
+</p>
+
+<p>
+<q>I'm out for an airing,</q> Fatty answered.
+<q>Beautiful night&mdash;isn't it?</q>
+</p>
+
+<pb n="036" /><anchor id="Pg036" />
+<p>
+But Solomon Owl was not interested in
+the weather. <q>I don't suppose you've
+come down here to get a chicken, have
+you?</q> he inquired.
+</p>
+
+<p>
+Fatty Coon seemed greatly surprised at
+the question.
+</p>
+
+<p>
+<q>Why&mdash;no!</q> he exclaimed. <q>But now
+that you speak of it, it reminds me
+that Farmer Green's saving a pullet for
+me. He was heard to say not long ago
+that he would like to catch me taking one
+of his hens. So he must have one for me.
+And I don't want to disappoint him.</q>
+</p>
+
+<p>
+At first Solomon Owl didn't know what
+answer to make. But at last he turned
+his head toward Fatty.
+</p>
+
+<p>
+<q>Why don't you go and get your pullet
+now?</q> he asked.
+</p>
+
+<pb n="037" /><anchor id="Pg037" />
+<p>
+<q>There's that man down below, with the
+glaring eyes&mdash;</q> said Fatty Coon. <q>I've
+been waiting around here for quite a long
+time and he hasn't looked away from the
+chicken house even once.... Do you
+know him?</q>
+</p>
+
+<p>
+<q>No! And I don't want to!</q> said Solomon
+Owl.
+</p>
+
+<p>
+<q>S-sh!</q> Fatty Coon held up a warning
+hand. <q>Who's that?</q> he asked, peering
+down at a dark object at the foot of their
+tree.
+</p>
+
+<p>
+Then both he and Solomon saw that it
+was Tommy Fox, sitting on his haunches
+and staring at the big head, with its blazing
+eyes and nose and mouth.
+</p>
+
+<p>
+<q>Not looking for chickens, I suppose?</q>
+Solomon Owl called in a low tone, which
+was hardly more than a whisper.
+</p>
+
+<p>
+But Tommy Fox's sharp ears heard him
+easily. And he looked up, licking his
+chops as if he were very hungry indeed.
+And all the while the stranger continued
+to stare straight at the chicken house, as
+if he did not intend to let anybody go
+</p>
+
+<pb n="038" /><anchor id="Pg038" />
+<p>
+prowling about that long, low building to
+steal any of Farmer Green's poultry.
+</p>
+
+<p>
+It was no wonder that the three chicken-lovers
+(two in the tree and one beneath it)
+hesitated. If the queer man had only
+spoken they might not have been so timid.
+But he said never a word.
+</p>
+
+<pb n="039" /><anchor id="Pg039" />
+</div>
+
+
+<div rend="page-break-before: always">
+<index index="toc" level1="VIII - Watching The Chickens" />
+<index index="pdf" level1="VIII - Watching The Chickens" />
+<head>VIII<lb />
+Watching The Chickens</head>
+
+
+<p>
+Solomon Owl and Fatty Coon couldn't
+help laughing at what Tommy Fox said to
+them, as they sat in their tree near the
+farmhouse, looking down at him in the
+moonlight.
+</p>
+
+<p>
+<q>I'm here to watch Farmer Green's
+chickens for him&mdash;</q> said he&mdash;<q>to see that
+no rat&mdash;or anybody else&mdash;runs away with
+a pullet.</q>
+</p>
+
+<pb n="040" /><anchor id="Pg040" />
+<p>
+<q>Farmer Green has someone else watching
+for him to-night,</q> said Solomon Owl,
+when he had stopped laughing. <q>There's
+that strange man! You can see how he
+keeps his glaring eyes fixed on the chicken
+house. And unless I'm mistaken, he's on
+the lookout for <hi rend="font-style: italic">you</hi>.</q>
+</p>
+
+<p>
+<q>No such thing!</q> Tommy Fox snapped.
+And he looked up at Solomon as if he
+wished that he could climb the tree.
+</p>
+
+<p>
+<q>Here comes somebody else!</q> Fatty
+Coon exclaimed suddenly. His keen eyes
+had caught sight of Jimmy Rabbit, hopping
+along on his way to the vegetable garden,
+to see if he couldn't find a stray cabbage
+or a turnip.
+</p>
+
+<p>
+Solomon Owl called to him. Whereupon,
+Jimmy Rabbit promptly sat up and
+looked at the odd trio. If it hadn't been
+for Tommy Fox he would have drawn
+nearer.
+</p>
+
+<p>
+<q>Do you know that stranger?</q> Solomon
+Owl asked him, pointing out the horrible
+head to Jimmy.
+</p>
+
+<p>
+<q>I haven't the pleasure,</q> said Jimmy
+Rabbit, after he had taken a good look.
+</p>
+
+
+<pb n="041" /><anchor id="Pg041" />
+
+<p>
+<q>Well,</q> said Solomon, <q>won't you
+kindly speak to him; and ask him to go
+away?</q>
+</p>
+
+<p>
+<q>Certainly!</q> answered Jimmy Rabbit,
+who always tried to be obliging.
+</p>
+
+<p>
+<q>I hope the stranger won't eat him,</q>
+remarked Tommy Fox, <q>because I hope
+to do that some day, myself.</q>
+</p>
+
+<p>
+It was queer&mdash;but Jimmy Rabbit was
+the only one of the four that wasn't afraid
+of those glaring features. He hopped
+straight up to the big round head, which
+was just a bit higher than one of the fence
+posts, against which the stranger seemed
+to be leaning. And after a moment or two
+Jimmy Rabbit called to Solomon and
+Fatty and Tommy Fox:
+</p>
+
+<p>
+<q>He won't go away! He's going to stay
+right where he is!</q>
+</p>
+
+<p>
+<q>Come here a minute!</q> said Tommy.
+</p>
+
+<p>
+Jimmy Rabbit shook his head.
+</p>
+
+
+<pb n="042" /><anchor id="Pg042" />
+
+<p>
+<q>You come over here!</q> he answered.
+And he did not stir from the side of the
+stranger. He knew very well that Tommy
+Fox was afraid of the man with the head
+with the glaring eyes.
+</p>
+
+<p>
+As for Tommy Fox, he did not even
+reply&mdash;that is, to Jimmy Rabbit. But he
+spoke his mind freely enough to his two
+friends in the tree.
+</p>
+
+<p>
+<q>It seems to me one of you ought to do
+something,</q> said he. <q>We'll eat no pullets
+to-night if we can't get rid of this meddlesome
+stranger.</q>
+</p>
+
+<p>
+Fatty Coon quite agreed with him.
+</p>
+
+<p>
+<q>The one who was here first is the one
+to act!</q> Fatty declared. <q>That's <hi rend="font-style: italic">you</hi>!</q>
+he told Solomon Owl.
+</p>
+
+<p>
+So Solomon Owl felt most uncomfortable.
+</p>
+
+<pb n="043" /><anchor id="Pg043" />
+<p>
+<q>I don't know what I can do,</q> he said.
+<q>I spoke to the stranger&mdash;asked him who
+he was. And he wouldn't answer me.</q>
+</p>
+
+<p>
+<q>Can't you frighten him away?</q> Tommy
+Fox inquired. <q>Fly right over his
+head and give him a blow with your wing
+as you pass!</q>
+</p>
+
+<p>
+Solomon Owl coughed. He was embarrassed,
+to say the least.
+</p>
+
+<p>
+<q>He's afraid!</q> Fatty Coon cried. And
+both he and Tommy Fox kept repeating,
+over and over again, <q>He's afraid! He's
+afraid! He's afraid!</q>
+</p>
+
+<p>
+It was really more than Solomon Owl
+could stand.
+</p>
+
+<pb n="044" /><anchor id="Pg044" />
+<p>
+<q>I'm not!</q> he retorted angrily.
+<q>Watch me and you'll see!</q> And without
+another word he darted out of the tree
+and swooped down upon the stranger, just
+brushing the top of his head. Solomon
+Owl knew at once that he had knocked
+something off the top of that dreadful
+head&mdash;something that fell to the ground
+and made Jimmy Rabbit jump nervously.
+</p>
+
+<p>
+Then Solomon returned to his perch in
+the tree.
+</p>
+
+<p>
+<q>He hasn't moved,</q> he said. <q>But I
+knocked off his hat.</q>
+</p>
+
+<p>
+<q>You took off the top of his head!</q>
+cried Fatty Coon in great excitement.
+<q>Look! The inside of his head is afire.</q>
+</p>
+
+<p>
+And peering down from the tree-top,
+Solomon Owl saw that Fatty Coon had
+told the truth.
+</p>
+
+
+<pb n="045" /><anchor id="Pg045" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="IX - Hallowe'en" />
+<index index="pdf" level1="IX - Hallowe'en" />
+<head>IX<lb />
+Hallowe'en</head>
+
+<p>
+Solomon Owl was afraid of fire. And
+when he looked down from his perch in the
+tree and saw, through the hole in the stranger's
+crown, that all was aglow inside his
+big, round head, Solomon couldn't help
+voicing his horror. He <q><hi rend="font-style: italic">whoo-whooed</hi></q>
+so loudly that Tommy Fox, at the foot of
+the tree, asked him what on earth was the
+matter.
+</p>
+
+<pb n="046" /><anchor id="Pg046" />
+<p>
+<q>His head's all afire!</q> Solomon Owl
+told him. <q>That's what makes his eyes
+glare so. And that's why the fire shines
+through his mouth and his nose, too. It's
+no wonder he didn't answer my question&mdash;for, 
+of course, his tongue must certainly
+be burned to a cinder.</q>
+</p>
+
+<p>
+<q>Then it ought to be safe for anybody
+to enter the chicken house,</q> Tommy Fox
+observed. <q>What could the stranger do,
+when he's in such a fix?</q>
+</p>
+
+<p>
+<q>He could set the chicken house afire, if
+he followed you inside,</q> replied Solomon
+Owl wisely. <q>And I, for one, am not going
+near the pullets to-night.</q>
+</p>
+
+<p>
+<q>Nor I!</q> Fatty Coon echoed. <q>I'm going
+straight to the cornfield. The corn is
+still standing there in shocks; and I ought
+to find enough ears to make a good meal.</q>
+</p>
+
+<p>
+But Solomon Owl and Tommy Fox were
+not interested in corn. They never ate it.
+And so it is not surprising that they should
+be greatly disappointed. After a person
+has his mouth all made up for chicken it
+is hard to think of anything that would
+taste even half as good.
+</p>
+
+
+<pb n="047" /><anchor id="Pg047" />
+
+<p>
+<q>It's queer he doesn't go and hold his
+head under the pump,</q> said Solomon Owl.
+<q>That's what I should do, if I were he.</q>
+</p>
+
+<p>
+<q>Jimmy Rabbit had better not go too
+near him, or he'll get singed,</q> said Tommy
+Fox, anxiously. <q>I don't want anything
+to happen to <hi rend="font-style: italic">him</hi>.</q>
+</p>
+
+<p>
+<q>Jimmy Rabbit is very careless,</q> Solomon
+declared. <q>I don't see what he's
+thinking of&mdash;going so near a fire! It
+makes me altogether too nervous to stay
+here. And I'm going away at once.</q>
+</p>
+
+<p>
+Tommy Fox said that he felt the same
+way. And the moment Fatty Coon, with
+his sharp claws, started to crawl down the
+tree on his way to the cornfield, Tommy
+Fox hurried off without even stopping to
+say good-bye.
+</p>
+
+<p>
+<q><hi rend="font-style: italic">Haw-haw-haw-hoo</hi>!</q> laughed Solomon
+Owl. <q>Tommy Fox is afraid of
+you!</q> he told Fatty Coon.
+</p>
+
+
+<pb n="048" /><anchor id="Pg048" />
+
+<p>
+But Fatty didn't seem to hear him. He
+was thinking only of the supper of corn
+that he was going to have.
+</p>
+
+<p>
+<q>Better come away!</q> Solomon Owl called
+to Jimmy Rabbit, turning his head toward
+the fence where Jimmy had been
+lingering near the hot-headed stranger.
+</p>
+
+<p>
+But Jimmy Rabbit didn't answer him,
+either. He was no longer there. The moment
+he had seen Tommy Fox bounding
+off across the meadow Jimmy had started
+at once for Farmer Green's vegetable garden.
+</p>
+
+<p>
+So Solomon Owl was the last to leave.
+</p>
+
+<p>
+<q>There's really nothing else I can do,</q>
+he remarked to himself. <q>I don't know
+what Aunt Polly Woodchuck would say if
+she knew that I didn't follow her advice
+to-night and eat a pullet for my supper.... But
+I've tried my best.... And
+that's all anybody can do.</q>
+</p>
+
+
+<pb n="049" /><anchor id="Pg049" />
+
+<p>
+Solomon Owl was upset all the rest of
+that night. And just before daybreak he
+visited the farmyard again, to see whether
+the strange man with the flaring head still
+watched the chicken house. And Solomon
+found that he had vanished.
+</p>
+
+<p>
+So Solomon Owl alighted on the fence.
+There was nothing there except a hollowed-out
+pumpkin, with a few holes cut
+in it, which someone had left on one of the
+fence-posts.
+</p>
+
+<p>
+<q>Good!</q> said he. <q>Maybe I can get my
+pullet after all!</q> He turned to fly to the
+chicken house. But just then the woodshed
+door opened again. And Farmer
+Green stepped outside, with a lantern in
+his hand. He was going to the barn to
+milk the cows. But Solomon Owl did not
+wait to learn anything more.
+</p>
+
+<pb n="050" /><anchor id="Pg050" />
+<p>
+He hurried away to his house among
+the hemlocks. And having quickly settled
+himself for a good nap, he was soon fast
+asleep.
+</p>
+
+<p>
+That was how Johnnie Green's jack-o'-lantern
+kept Tommy Fox and Fatty Coon
+and Solomon Owl from taking any chickens
+on Hallowe'en.
+</p>
+
+
+<pb n="051" /><anchor id="Pg051" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="X - A Troublesome Wishbone" />
+<index index="pdf" level1="X - A Troublesome Wishbone" />
+<head>X<lb />
+A Troublesome Wishbone</head>
+
+<p>
+Solomon Owl had pains&mdash;sharp pains&mdash;underneath
+his waistcoat. And not knowing
+what else to do, he set off at once for
+Aunt Polly Woodchuck's house under the
+hill, in the pasture, which he had not visited
+since the previous fall. Luckily, he
+found the old lady at home. And quickly
+he told her of his trouble.
+</p>
+
+<p>
+<q>What have you been eating?</q> she inquired.
+</p>
+
+<p>
+<q>I've followed your advice. I've been
+eating chickens,</q> said he&mdash;<q>very small
+chickens, because they were all I could
+get.</q>
+</p>
+
+
+<pb n="052" /><anchor id="Pg052" />
+
+<p>
+Aunt Polly Woodchuck, who was an
+herb doctor&mdash;and a good one&mdash;regarded
+him through her spectacles.
+</p>
+
+<p>
+<q>I'm afraid,</q> said she, <q>you don't chew
+your food properly. Bolting one's food is
+very harmful. It's as bad as not eating
+anything at all, almost.</q>
+</p>
+
+<p>
+Solomon Owl showed plainly that her
+remark surprised him.
+</p>
+
+<p>
+<q>Why,</q> he exclaimed, <q>I always swallow
+my food whole&mdash;when it isn't too big!</q>
+</p>
+
+<p>
+<q>Gracious me!</q> cried Aunt Polly,
+throwing up both her hands. <q>It's no
+wonder you're ill. It's no wonder you
+have pains; and now I know exactly
+what's the matter with you. You have a
+wishbone inside you. I can feel it!</q> she
+told him, as she prodded him in the waistcoat.
+</p>
+
+<p>
+<q>I wish you could get it out for me!</q>
+said Solomon with a look of distress.
+</p>
+
+
+<pb n="053" /><anchor id="Pg053" />
+
+<p>
+<q>All the wishing in the world won't
+help you,</q> she answered, <q>unless we can
+find some way of removing the wishbone
+so you can wish on that. Then I'm sure
+you would feel better at once.</q>
+</p>
+
+<p>
+<q>This is strange,</q> Solomon mused.
+<q>All my life I've been swallowing my food
+without chewing it. And it has never
+given me any trouble before.... What
+shall I do?</q>
+</p>
+
+<p>
+<q>Don't eat anything for a week,</q> she
+directed. <q>And fly against tree-trunks as
+hard as you can. Then come back here
+after seven days.</q>
+</p>
+
+<p>
+Solomon Owl went off in a most doleful
+frame of mind. It seemed to him that he
+had never seen so many mice and frogs
+and chipmunks as he came across during
+the following week. But he didn't dare
+catch a single one, on account of what
+Aunt Polly Woodchuck had said.
+</p>
+
+
+<pb n="054" /><anchor id="Pg054" />
+
+<p>
+His pains, however, grew less from day
+to day&mdash;at least, the pains that had first
+troubled him. But he had others to take
+their place. Hunger pangs, these were!
+And they were almost as bad as those that
+had sent him hurrying to see Aunt Polly
+Woodchuck.
+</p>
+
+<p>
+On the whole, Solomon passed a very
+unhappy week. Flying head foremost
+into tree-trunks (as Aunt Polly had instructed
+him to do) gave him many bumps
+and bruises. So he was glad when the time
+came for him to return to her house in the
+pasture.
+</p>
+
+<pb n="055" /><anchor id="Pg055" />
+<p>
+Solomon's neighbors had been so interested
+in watching him that they were all
+sorry when he ceased his strange actions.
+Indeed, there was a rumor that Solomon
+had become very angry with Farmer
+Green and that he was trying to knock
+down some of Farmer Green's trees. Before 
+the end of that unpleasant week Solomon
+had often noticed as many as twenty-four
+of the forest folk following him
+about, hoping to see a tree fall.
+</p>
+
+<p>
+But they were all disappointed. However,
+they enjoyed the sight of Solomon
+hurling himself against tree-trunks. And
+the louder he groaned, the more people
+gathered around him.
+</p>
+
+
+<pb n="056" /><anchor id="Pg056" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="XI - Cured At Last" />
+<index index="pdf" level1="XI - Cured At Last" />
+<head>XI<lb />
+Cured At Last</head>
+
+<p>
+<q>How do you feel now?</q> Aunt Polly
+Woodchuck asked Solomon Owl, when he
+had come back to her house after a week's
+absence.
+</p>
+
+<p>
+<q>No better!</q> he groaned. <q>I still have
+pains. But they seem to have moved and
+scattered all over me.</q>
+</p>
+
+<p>
+<q>Good!</q> she exclaimed with a smile.
+<q>You <hi rend="font-style: italic">are</hi> much better, though you didn't
+know it. The wishbone is broken. You
+broke it by flying against the trees. And
+you ought not to have any more trouble.
+But let me examine you!</q> she said, prodding
+him in the waistcoat once more.
+</p>
+
+
+<pb n="057" /><anchor id="Pg057" />
+
+<p>
+<q>This is odd!</q> she continued a bit later.
+<q>I can feel the wishbone more plainly
+than ever.</q>
+</p>
+
+<p>
+<q>That's my own wishbone!</q> Solomon
+cried indignantly. <q>I've grown so thin
+through not eating that it's a wonder you
+can't feel my backbone, too.</q>
+</p>
+
+<p>
+Aunt Polly Woodchuck looked surprised.
+</p>
+
+<p>
+<q>Perhaps you're right!</q> said she. <q>Not
+having a wishbone of my own, I forgot
+that you had one.</q>
+</p>
+
+<p>
+A look of disgust came over Solomon
+Owl's face.
+</p>
+
+<p>
+<q>You're a very poor doctor,</q> he told
+her. <q>Here you've kept me from eating
+for a whole week&mdash;and I don't believe it
+was necessary at all!</q>
+</p>
+
+<p>
+<q>Well, you're better, aren't you?</q> she
+asked him.
+</p>
+
+<pb n="058" /><anchor id="Pg058" />
+<p>
+<q>I shall be as soon as I have a good
+meal,</q> replied Solomon Owl, hopefully.
+</p>
+
+<p>
+<q>You ought not to eat anything for another
+week,</q> Aunt Polly told him solemnly.
+</p>
+
+<p>
+<q>Nonsense!</q> he cried.
+</p>
+
+<p>
+<q>I'm a doctor; and I ought to know
+best,</q> she insisted.
+</p>
+
+<p>
+But Solomon Owl hooted rudely.
+</p>
+
+<p>
+<q>I'll never come to you for advice any
+more,</q> he declared. <q>I firmly believe
+that my whole trouble was simply that I've
+been eating too sparingly. And I shall
+take good care to see that it doesn't happen
+again.</q>
+</p>
+
+<p>
+No one had ever spoken to Aunt Polly
+in quite that fashion&mdash;though old Mr.
+Crow had complained one time that she
+had cured him <hi rend="font-style: italic">too quickly</hi>. But she did
+not lose her temper, in spite of Solomon's
+jeers.
+</p>
+
+<pb n="059" /><anchor id="Pg059" />
+<p>
+<q>You'll be back here again the very
+next time you're ill,</q> she remarked.
+<q>And if you continue to swallow your
+food whole&qdash;</q>
+</p>
+
+<p>
+But Solomon Owl did not even wait to
+hear what she said. He was so impolite
+that he flew away while she was talking.
+And since it was then almost dark, and a
+good time to look for field mice, he began
+his night's hunting right there in Farmer
+Green's pasture.
+</p>
+
+<p>
+By morning Solomon was so plump that
+Aunt Polly Woodchuck would have had
+a good deal of trouble finding his wishbone.
+But since he did not visit her again,
+she had no further chance to prod him in
+the waistcoat.
+</p>
+
+<p>
+Afterward, Solomon heard a bit of gossip
+that annoyed him. A friend of his
+reported that Aunt Polly Woodchuck was
+going about and telling everybody how she
+had saved Solomon's life.
+</p>
+
+
+<pb n="060" /><anchor id="Pg060" />
+
+<p>
+<q>Mice!</q> he exclaimed (he often said
+that when some would have said <q>Rats!</q>).
+<q>There's not a word of truth in her claim.
+And if people in this neighborhood keep
+on taking her advice and her catnip tea
+they're going to be sorry some day. For
+they'll be really ill the first thing they
+know. And then what will they do?</q>
+</p>
+
+
+<pb n="061" /><anchor id="Pg061" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="XII - Benjamin Bat" />
+<index index="pdf" level1="XII - Benjamin Bat" />
+<head>XII<lb />
+Benjamin Bat</head>
+
+<p>
+Solomon Owl was by no means the only
+night-prowler in Pleasant Valley. He had
+neighbors that chose to sleep in the daytime,
+so they might roam through the
+woods and fields after dark. One of these
+was Benjamin Bat. And furthermore, he
+was the color of night itself.
+</p>
+
+<pb n="062" /><anchor id="Pg062" />
+<p>
+Now, Benjamin Bat was an odd chap.
+When he was still he liked to hang by his
+feet, upside down. And when he was flying
+he sailed about in a zigzag, helter-skelter
+fashion. He went in so many different
+directions, turning this way and that, one
+could never tell where he was going. One
+might say that his life was just one continual
+dodge&mdash;when he wasn't resting
+with his heels where his head ought to be.
+</p>
+
+<p>
+A good many of Benjamin Bat's friends
+said he certainly must be crazy, because
+he didn't do as they did. But that never
+made the slightest difference in Benjamin
+Bat's habits. He continued to zigzag
+through life&mdash;and hang by his heels&mdash;just
+the same. Perhaps he thought that all
+other people were crazy because they
+didn't do likewise.
+</p>
+
+<p>
+Benjamin often dodged across Solomon
+Owl's path, when Solomon was hunting
+for field mice. And since Benjamin was
+the least bit like a mouse himself&mdash;except
+for his wings&mdash;there was a time, once,
+when Solomon tried to catch him.
+</p>
+
+<p>
+But Solomon Owl soon found that chasing
+Benjamin Bat made him dizzy. If
+Benjamin hadn't been used to hanging
+head downward, maybe he would have
+been dizzy, too.
+</p>
+<pb n="063" /><anchor id="Pg063" />
+
+<p>
+Though the two often saw each other,
+Benjamin Bat never seemed to care to
+stop for a chat with Solomon Owl. One
+night, however, Benjamin actually called
+to Solomon and asked his advice. He was
+in trouble. And he knew that Solomon
+Owl was supposed by some to be the wisest
+old fellow for miles around.
+</p>
+
+<p>
+It was almost morning. And Solomon
+Owl was hurrying home, because a terrible
+storm had arisen. The lightning was
+flashing, and peals of thunder crashed
+through the woods. Big drops of rain
+were already pattering down. But Solomon
+Owl did not care, for he had almost
+reached his house in the hollow hemlock
+near the foot of Blue Mountain.
+</p>
+
+<pb n="064" /><anchor id="Pg064" />
+<p>
+It was different with Benjamin Bat.
+That night he had strayed a long distance
+from his home in Cedar Swamp. And
+he didn't know what to do. <q>I want to get
+under cover, somewhere,</q> he told Solomon
+Owl. <q>You don't know of a good place
+near-by, do you, where I can get out of the
+storm and take a nap?</q>
+</p>
+
+<p>
+<q>Why, yes!</q> answered Solomon Owl.
+<q>Come right along to my house and spend
+the day with me!</q>    
+</p>
+
+<p>
+But Benjamin Bat did not like the suggestion
+at all.
+</p>
+
+<p>
+<q>I'm afraid I might crowd, you,</q> he
+said. He was thinking of the time when
+Solomon Owl had chased him. And sleeping
+in Solomon Owl's house seemed far
+from a safe thing to do.
+</p>
+
+<p rend="text-align: center"><anchor id="image-002" />
+<figure rend="w95" url="images/image-002.jpg">
+<head rend="text-align: center">Benjamin Asked Solomon's Advice
+</head>
+<figDesc><hi rend="font-style: italic">Illustration 2</hi></figDesc>
+</figure></p><p></p>
+        
+<p>
+Solomon was wise enough to guess what
+was going on inside Benjamin's head.
+</p>
+
+<pb n="065" /><anchor id="Pg065" />
+<p>
+<q>Come along!</q> he said. <q>We'll both be
+asleep before we know it. I'm sorry I
+can't offer you something to eat. But I
+haven't a morsel of food in my house. No
+doubt, though, you've just had a good
+meal. <hi rend="font-style: italic">I</hi> ate seven mice to-night. And I
+certainly couldn't eat anything more.</q>
+</p>
+   
+<p>
+When Solomon Owl told him that, Benjamin
+Bat thought perhaps there was no
+danger, after all. And since the rain was
+falling harder and harder every moment,
+he thanked Solomon and said he would be
+glad to accent his invitation.
+</p>
+
+<p>
+<q>Follow me, then!</q> said Solomon Owl.
+And he led the way to his home in the hemlock.
+</p>
+
+<p>
+For once, Benjamin Bat flew in a fairly
+straight line, though he did a little dodging,
+because he couldn't help it.
+</p>
+
+<p>
+There was more room inside Solomon's
+house than Benjamin Bat had supposed.
+While Benjamin was looking about and
+telling Solomon that he had a fine home,
+his host quickly made a bed of leaves in
+one corner of the room&mdash;there was only
+one room, of course.
+</p>
+<pb n="066" /><anchor id="Pg066" />
+
+<p>
+<q>That's for you!</q> said Solomon Owl.
+<q>I always sleep on the other side of the
+house.</q> And without waiting even to
+make sure that his guest was comfortable,
+Solomon Owl lay down and began to snore&mdash;for
+he was very sleepy.
+</p>
+
+<p>
+It was so cozy there that Benjamin Bat
+was glad, already, that he had accepted
+Solomon's invitation.
+</p>
+
+
+<pb n="067" /><anchor id="Pg067" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="XIII - The Lucky Guest" />
+<index index="pdf" level1="XIII - The Lucky Guest" />
+<head>XIII<lb />
+The Lucky Guest</head>
+
+<p>
+In the middle of the day Solomon Owl
+happened to awake. He was sorry that he
+hadn't slept until sunset, because he was
+very hungry. Knowing that it was light
+outside his hollow tree, he didn't want to
+leave home to find something to eat.
+</p>
+
+<p>
+Then, suddenly, he remembered that he
+had brought Benjamin Bat to his house
+early that morning, so Benjamin might
+escape the storm.... Why not eat Benjamin
+Bat?
+</p>
+
+<p>
+As soon as the thought occurred to him,
+Solomon Owl liked it. And he moved
+stealthily over to the bed of leaves he had
+made for his guest just before daybreak.
+</p>
+<pb n="068" /><anchor id="Pg068" />
+
+<p>
+But Benjamin Bat was not there.
+Though Solomon looked in every nook and
+cranny of his one-room house, he did not
+find him.
+</p>
+
+<p>
+<q>He must have left as soon as it stopped
+raining,</q> said Solomon Owl to himself.
+<q>He might at least have waited to thank
+me for giving him a day's lodging. It's
+the last time I'll ever bring any worthless
+vagabond into my house. And I ought to
+have known better than to have anything
+to do with a crazy person like Benjamin
+Bat.</q>
+</p>
+
+<p>
+Anybody can see that Solomon Owl was
+displeased. But it was not at all astonishing,
+if one stops to remember how hungry
+he was, and that he had expected to enjoy
+a good meal without the trouble of going
+away from home to get it.
+</p>
+
+<pb n="069" /><anchor id="Pg069" />
+<p>
+Solomon Owl went to the door of his
+house and looked out. The sun was shining
+so brightly that after blinking in his
+doorway for a few minutes he decided that
+he would go to bed again and try to sleep
+until dusk. He never liked bright days.
+<q>They're so dismal!</q> he used to say.
+<q>Give me a good, dark night and I'm
+happy, for there's nothing more cheering
+than gloom.</q>
+</p>
+
+<p>
+In spite of the pangs of hunger that
+gnawed inside him, Solomon at last succeeded
+in falling asleep once more. And
+he dreamed that he chased Benjamin Bat
+three times around Blue Mountain, and
+then three times back again, in the opposite
+direction. But he never could catch
+him, because Benjamin Bat simply
+wouldn't fly straight. His zigzag course
+was so confusing that even in his dream
+Solomon Owl grew dizzy.
+</p>
+
+<pb n="070" /><anchor id="Pg070" />
+<p>
+Now, Benjamin Bat was in Solomon's
+house all the time. And the reason why
+Solomon Owl hadn't found him was a very
+simple one. It was merely that Solomon
+hadn't looked in the right place.
+</p>
+
+<p>
+Benjamin Bat was hidden&mdash;as you
+might say&mdash;where his hungry host never
+once thought of looking for him. And
+being asleep all the while, Benjamin didn't
+once move or make the slightest noise.
+</p>
+
+<p>
+If he had snored, or sneezed, or rustled
+his wings, no doubt Solomon Owl would
+have found him.
+</p>
+
+<p>
+When Benjamin awakened, late in the
+afternoon, Solomon was still sleeping.
+And Benjamin crept through the door and
+went out into the gathering twilight, without
+arousing Solomon.
+</p>
+
+<p>
+<q>I'll thank him the next time I meet
+him,</q> Benjamin Bat decided. And he
+staggered away through the air as if he did
+not quite know, himself, where he was going. 
+But, of course, that was only his
+queer way of flying.
+</p>
+<pb n="071" /><anchor id="Pg071" />
+
+<p>
+When he told his friends where he had
+spent the day they were astonished.
+</p>
+
+<p>
+<q>How did you ever dare do anything so
+dangerous as sleeping in Solomon Owl's
+house?</q> they all asked him.
+</p>
+
+<p>
+But Benjamin Bat only said, <q>Oh!
+There was nothing to be afraid of.</q> And
+he began to feel quite important.
+</p>
+
+
+<pb n="072" /><anchor id="Pg072" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="XIV - Hanging By The Heels" />
+<index index="pdf" level1="XIV - Hanging By The Heels" />
+<head>XIV<lb />
+Hanging By The Heels</head>
+
+<p>
+It was several nights before Solomon Owl
+and Benjamin Bat chanced to meet again
+in the forest.
+</p>
+
+<p>
+<q>Hullo!</q> said Solomon.
+</p>
+
+<p>
+<q>Hullo!</q> said Benjamin Bat. <q>I'm
+glad to see you, because I want to thank
+you for letting me spend the day in your
+house, so I wouldn't have to stay out in
+the storm.</q>
+</p>
+
+<p>
+<q>You must be a light sleeper,</q> Solomon
+observed. (He did not tell Benjamin
+that he was welcome!)
+</p>
+
+<p>
+<q>What makes you think that?</q> Benjamin
+Bat inquired.
+</p>
+
+
+<pb n="073" /><anchor id="Pg073" />
+
+<p>
+<q>Why&mdash;you left my house before
+noon,</q> Solomon told him.
+</p>
+
+<p>
+<q>Oh, no!</q> said Benjamin. <q>I slept
+soundly until sunset. When I came away
+the crickets were chirping. And I was
+surprised that you hadn't waked up yourself.</q>
+</p>
+
+<p>
+<q>You were gone before midday,</q> Solomon
+Owl insisted. And they had something
+very like a dispute, while Solomon
+Owl sat in one tree and Benjamin Bat
+hung head downward from another. <q>I
+ought to know,</q> said Solomon. <q>I was
+awake about noon; and I looked everywhere
+for you.</q>
+</p>
+
+<p>
+<q>What for?</q> asked Benjamin.
+</p>
+
+<p>
+Naturally, Solomon didn't like to tell
+him that he had intended to eat him. So
+he looked wise&mdash;and said nothing.
+</p>
+
+<p>
+<q>You didn't look on the ceiling, did
+you?</q> Benjamin Bat inquired.
+</p>
+
+
+<pb n="074" /><anchor id="Pg074" />
+
+<p>
+<q>No, indeed!</q> Solomon Owl exclaimed.
+</p>
+
+<p>
+<q>Well, that's where I was, hanging by
+my feet,</q> Benjamin Bat informed him.
+</p>
+
+<p>
+Solomon Owl certainly was surprised
+to hear that.
+</p>
+
+<p>
+<q>The idea!</q> he cried. <q>You're a queer
+one! I never once thought of looking <hi rend="font-style: italic">on
+the ceiling</hi> for a <hi rend="font-style: italic">luncheon</hi>!</q> He was so
+astonished that he spoke before he thought
+how oddly his remark would sound to another.
+</p>
+
+<p>
+When he heard what Solomon Owl said,
+Benjamin Bat knew at once that Solomon
+had meant to eat him. And he was so
+frightened that he dropped from the limb
+to which he was clinging and flew off as
+fast as he could go. For once in his life
+he flew in a straight line, with no zigzags
+at all, he was in such a hurry to get away
+from Solomon Owl, who&mdash;for all he knew&mdash;might
+still be very hungry.
+</p>
+
+
+<pb n="075" /><anchor id="Pg075" />
+
+<p>
+But Solomon Owl had caught so many
+mice that night that he didn't feel like
+chasing anybody. So he sat motionless in
+the tree, merely turning his head to watch
+Benjamin sailing away through the dusky
+woods. He noticed that Benjamin didn't
+dodge at all&mdash;except when there was a tree
+in his way. And he wondered what the
+reason was.
+</p>
+
+<p>
+<q>Perhaps he's not so crazy as I supposed,</q>
+said Solomon Owl to himself.
+And ever afterward, when he happened
+to awake and feel hungry, Solomon Owl
+used to look up at the ceiling above him
+and wish that Benjamin Bat was there.
+</p>
+
+<p>
+But Benjamin Bat never cared to have
+anything more to do with Solomon Owl.
+</p>
+
+<p>
+He said he had a good reason for avoiding
+him.
+</p>
+
+<pb n="076" /><anchor id="Pg076" />
+<p>
+And ever afterward he passed for a very
+brave person among his friends. They
+often pointed him out to strangers, saying,
+<q>There's Benjamin Bat! <hi rend="font-style: italic">He</hi> doesn't
+know what fear is. Why, once he even
+spent a whole day asleep in Solomon Owl's
+house! And if you don't think <hi rend="font-style: italic">that</hi> was a
+bold thing to do, then I guess you don't
+know Solomon Owl.</q>
+</p>
+
+<pb n="077" /><anchor id="Pg077" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="XV - Disputes Settled" />
+<index index="pdf" level1="XV - Disputes Settled" />
+<head>XV<lb />
+Disputes Settled</head>
+
+<p>
+Solomon Owl looked so wise that many
+of his neighbors fell into the habit of going
+to him for advice. If two of the forest
+folk chanced to have a dispute which
+they could not settle between them they
+frequently visited Solomon and asked him
+to decide which was in the right. And in
+the course of time Solomon became known
+far and wide for his ability to patch up a
+quarrel.
+</p>
+
+<p>
+At last Jimmy Rabbit stopped Solomon
+Owl one night and suggested that he hang
+a sign outside his house, so that there
+shouldn't be anybody in the whole valley
+that wouldn't know what to do in case he
+found himself in an argument.
+</p>
+<pb n="078" /><anchor id="Pg078" />
+
+<p>
+Solomon decided on the spot that Jimmy
+Rabbit's idea was a good one. So he
+hurried home and before morning he had
+his sign made, and put out where everyone
+could see it. It looked like this:
+</p>
+
+<p>
+DISPUTES SETTLED WITHIN
+</p>
+
+<p>
+There was only one objection to the
+sign. As soon as Jimmy Rabbit saw it he
+told Solomon that it should have said:
+</p>
+
+<p>
+DISPUTES SETTLED WITHOUT
+</p>
+
+<p>
+<q>Without what?</q> Solomon Owl inquired.
+</p>
+
+<pb n="079" /><anchor id="Pg079" />
+<p>
+<q>Why, without going into your house!</q>
+said Jimmy Rabbit. <q>I can't climb a tree,
+you know. And neither can Tommy Fox.
+We might have a dispute to-night; and
+how could you ever settle it?</q>
+</p>
+
+<p>
+<q>Oh, I shall be willing to step outside,</q>
+Solomon told him. And he refused to
+change the sign, declaring that he liked it
+just as it was.
+</p>
+
+<p>
+Now, there was only one trouble with
+Solomon Owl's settling of disputes.
+Many of the forest folk wanted to see him
+in the daytime. And <hi rend="font-style: italic">night</hi> was the only
+time <hi rend="font-style: italic">he</hi> was willing to see them. But he
+heard so many objections to that arrangement
+that in the end Solomon agreed to
+meet people at dusk and at dawn, when it
+was neither very dark nor very light. On
+the whole he found that way very satisfactory,
+because there was just enough
+light at dusk and at dawn to make him
+blink. And when Solomon blinked he
+looked even wiser than ever.
+</p>
+
+<pb n="080" /><anchor id="Pg080" />
+<p>
+Well, the first disputing pair that came
+to Solomon's tree after he hung out his
+new sign were old Mr. Crow and Jasper
+Jay. They reached the hemlock grove
+soon after sunset and squalled loudly for
+Solomon. <q>Hurry!</q> Mr. Crow cried, as
+soon as Solomon Owl stepped outside his
+door. <q>It will be dark before we know it;
+and it's almost our bedtime.</q>
+</p>
+
+<p>
+<q>What's your difficulty?</q> Solomon
+asked them.
+</p>
+
+<p>
+Mr. Crow looked at Jasper Jay. And
+then he looked at Solomon again.
+</p>
+
+<p>
+<q>Maybe you won't like to hear it,</q> he
+said. And he winked at Jasper. <q>But
+you've put out this sign&mdash;so we've come
+here.</q>
+</p>
+
+<p>
+<q>You've done just right!</q> exclaimed
+Solomon Owl. <q>And as for my not liking
+to hear the trouble, it's your dispute and
+not mine. So I don't see how it concerns
+me&mdash;except to settle it.</q>
+</p>
+
+
+<pb n="081" /><anchor id="Pg081" />
+
+<p>
+<q>Very Well,</q> Mr. Crow answered.
+<q>The dispute, then, is this: Jasper says
+that in spite of your looking so wise,
+you're really the stupidest person in
+Pleasant Valley.</q>
+</p>
+
+<p>
+<q>He does, eh?</q> cried Solomon Owl,
+while Jasper Jay laughed loudly. <q>And
+you, of course, do not agree with him,</q>
+Solomon continued.
+</p>
+
+<p>
+<q>I do not!</q> Mr. Crow declared.
+</p>
+
+<p>
+<q>Good!</q> said Solomon, nodding his
+head approvingly.
+</p>
+
+<p>
+<q>No, I do not agree with Jasper Jay,</q>
+Mr. Crow said. <q>I claim that there's one
+other person more stupid than you are&mdash;and
+that's Fatty Coon.</q>
+</p>
+
+<p>
+Well, Solomon Owl certainly was displeased.
+And it didn't make him feel any
+happier to hear Jasper Jay's boisterous
+shouts, or the hoarse <q><hi rend="font-style: italic">haw-haw</hi></q> of old
+Mr. Crow.
+</p>
+
+
+<pb n="082" /><anchor id="Pg082" />
+
+<p>
+<q>I hope you can decide which one of us
+is right,</q> Mr. Crow ventured.
+</p>
+
+<p>
+<q>I am, of course!</q> cried Jasper Jay.
+</p>
+
+<p>
+<q>You're not!</q> Mr. Crow shouted. And
+to Solomon Owl he said, <q>We've been disputing
+like this all day long.</q>
+</p>
+
+<p>
+Solomon Owl didn't know what to say.
+If he announced that Jasper was right it
+would be the same as admitting that he
+was the stupidest person in the whole
+neighborhood. And if he said that old
+Mr. Crow's opinion was correct he would
+not be much better off. Naturally he
+didn't want to tell either of them that he
+was right.
+</p>
+
+<p>
+<q>I'll have to think about this,</q> Solomon
+observed at last.
+</p>
+
+<p>
+<q>We don't want to wait,</q> said Mr.
+Crow. <q>If we keep on disputing we're
+likely to have a fight.</q>
+</p>
+
+<pb n="083" /><anchor id="Pg083" />
+<p>
+Now, Solomon Owl hoped that they
+would have a fight. So he was determined
+to keep them waiting for his decision.
+</p>
+
+<p>
+<q>Come back to-morrow at this time,</q>
+he said.
+</p>
+
+
+<pb n="084" /><anchor id="Pg084" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="XVI - Nine Fights" />
+<index index="pdf" level1="XVI - Nine Fights" />
+<head>XVI<lb />
+Nine Fights</head>
+
+<p>
+The next evening, just at dusk, Jasper
+Jay and old Mr. Crow returned to Solomon
+Owl's house, looking much bedraggled.
+One of Mr. Crow's eyes was almost
+closed; and Jasper Jay's crest seemed to
+have been torn half off his head.
+</p>
+
+<p>
+<q>What's the matter?</q> asked Solomon,
+as soon as he saw them.
+</p>
+
+<p>
+<q>We've had three fights,</q> said Jasper
+Jay.
+</p>
+
+<p>
+<q>Yes! And I've whipped him each
+time!</q> cried Mr. Crow. <q>So I must be in
+the right. And you'd better decide our
+dispute in my favor at once.</q>
+</p>
+
+
+<pb n="085" /><anchor id="Pg085" />
+
+<p>
+But Solomon Owl was still in no hurry.
+</p>
+
+<p>
+<q>It's a difficult question to settle,<q> said
+he. </q>I don't want to make any mistake.
+So I shall have to ask you to come back
+here to-morrow at this time.</q>
+</p>
+
+<p>
+Both Jasper and Mr. Crow seemed disappointed.
+Although Mr. Crow had won
+each fight, he was very weary, for he was
+older than Jasper Jay.
+</p>
+
+<p>
+As they went off, Solomon Owl began
+to feel much pleased with himself.
+</p>
+
+<p>
+The following evening, at sunset, old
+Mr. Crow and Jasper Jay visited Solomon
+Owl once more. And they looked
+more battered than ever.
+</p>
+
+<p>
+<q>We've had three more fights,</q> said
+Mr. Crow.
+</p>
+
+<p>
+<q>Yes! And I won each time!</q> Jasper
+Jay piped up. <q>So I must be in the right.
+And you'd better decide in my favor without
+any further delay.</q>
+</p>
+
+
+<pb n="086" /><anchor id="Pg086" />
+
+<p>
+Solomon Owl thought deeply for some
+time.
+</p>
+
+<p>
+<q>Maybe I ought to wait until to-morrow&qdash;</q>
+he began.
+</p>
+
+<p>
+But his callers both shouted <q>No!</q>
+</p>
+
+<p>
+<q>Well,</q> said Solomon, <q>Mr. Crow has
+won three fights; and Jasper Jay has won
+three. So it is certain that each must be
+in the wrong.</q>
+</p>
+
+<p>
+But that announcement did not satisfy
+Jasper and Mr. Crow. And they left the
+hemlock grove, disputing more loudly than
+ever.
+</p>
+
+<p>
+And the next day, at dusk, they came
+back again.
+</p>
+
+<p>
+<q>We've had three more fights; and I
+won!</q> they both cried at the same time.
+</p>
+
+<p>
+<q>That proves my claim,</q> said Solomon
+Owl. <q>You're both wrong.</q>
+</p>
+
+<p>
+They whispered together for a few minutes.
+</p>
+
+
+<pb n="087" /><anchor id="Pg087" />
+
+<p>
+<q>We don't like your way of settling disputes,</q>
+Mr. Crow remarked shortly. <q>But
+we've decided to stop quarreling.</q>
+</p>
+
+<p>
+<q>Good!</q> said Solomon Owl. <q>That
+shows that you are sensible.</q>
+</p>
+
+<p>
+<q>Yes!</q> replied Jasper. <q>We've decided
+to stop quarreling and fight <hi rend="font-style: italic">you</hi>!</q>
+</p>
+
+<p>
+<q>Wait a moment!</q> said Solomon Owl
+hastily, as they drew nearer. <q>I don't
+want my new suit spoiled.</q> And he
+ducked inside the hollow tree before they
+could reach him.
+</p>
+
+<p>
+Jasper and Mr. Crow waited and
+waited. But Solomon Owl did not reappear.
+And since his two visitors did not
+dare follow him into the dark cavern
+where he lived, they decided at last that
+they would go home&mdash;and get into bed.
+</p>
+
+<p>
+<q>Let's take away his sign, anyhow!</q>
+Jasper Jay suggested.
+</p>
+
+<pb n="088" /><anchor id="Pg088" />
+<p>
+So they pulled down Solomon's sign,
+which said <q>Disputes Settled Within,</q>
+and they carried it off with them and hid
+it in some bushes.
+</p>
+
+<p>
+That same night Solomon Owl hunted
+for it for a long time. But he never found
+it.
+</p>
+
+<p>
+He decided not to hang out another,
+for he saw that settling disputes was a
+dangerous business.
+</p>
+
+
+<pb n="089" /><anchor id="Pg089" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="XVII - Cousin Simon Screecher" />
+<index index="pdf" level1="XVII - Cousin Simon Screecher" />
+<head>XVII<lb />
+Cousin Simon Screecher</head>
+
+<p>
+Solomon Owl had a small cousin named
+Simon Screecher. He was unlike Solomon
+in some respects, because he always
+wore ear-tufts, and his eyes were yellow
+instead of black. But in some other ways
+he was no different from Solomon Owl, for
+he was a noisy chap and dearly loved mice&mdash;to
+eat.
+</p>
+
+<p>
+It happened that the two met in the
+woods one fine fall evening; and they
+agreed to go hunting mice together.
+</p>
+
+<pb n="090" /><anchor id="Pg090" />
+<p>
+Now, being so much smaller than Solomon,
+Simon Screecher was all the spryer.
+In fact, he was so active that he could
+catch mice faster than Solomon Owl could
+capture them. And they had not hunted
+long before Solomon discovered that
+Simon had succeeded in disposing of six
+mice to his three.
+</p>
+
+<p>
+That discovery did not please Solomon
+at all.
+</p>
+
+<p>
+<q>Look here!</q> he said. <q>Since we are
+hunting together it's only fair to divide
+what we catch, half and half.</q>
+</p>
+
+<p>
+Simon Screecher hesitated. But after
+reflecting that his cousin was very big and
+very strong, he agreed to Solomon's suggestion.
+</p>
+
+<p>
+So they resumed their hunting. And
+every time one of them caught two mice,
+he gave one mouse to his cousin.
+</p>
+
+<p>
+Still Solomon Owl was not satisfied.
+</p>
+
+<pb n="091" /><anchor id="Pg091" />
+<p>
+<q>Wait a moment!</q> Solomon called to
+Simon Screecher. <q>It has just occurred
+to me that I am more than twice as big
+as you are; so I ought to have twice as
+many mice as you.</q>
+</p>
+
+<p>
+This time Simon Screecher hesitated
+longer. He did not like the second suggestion
+even as well as the first. And in
+the end he said as much, too.
+</p>
+
+<p>
+But Solomon Owl insisted that it was
+only fair.
+</p>
+
+<p>
+<q>You surely ought to be glad to please
+your own cousin,</q> he told Simon.
+</p>
+
+<p>
+<q>It's not that,</q> said Simon Screecher.
+<q>It seems to me that since I'm not half
+your size, I ought to have twice as many
+mice to eat, so I'll grow bigger.</q>
+</p>
+
+<p>
+Well, Solomon Owl hadn't thought of
+that. He was puzzled to know what to
+say. And he wanted time in which to
+ponder.
+</p>
+
+<pb n="092" /><anchor id="Pg092" />
+<p>
+<q>I'll think over what you say,</q> he told
+Simon Screecher. <q>And now, since it's
+almost dawn, we'd better not hunt any
+longer to-night. But I'll meet you again
+at dusk if you'll come to my house.</q>
+</p>
+
+<p>
+<q>Very well, Cousin Solomon!</q> Simon
+answered. <q>I'm sure that after you've
+had a good sleep you'll be ready to agree
+with me.</q>
+</p>
+
+<p>
+<q>If that's the case, I may not take any
+nap at all,</q> Solomon replied.
+</p>
+
+<p>
+<q>Oh! You ought to have your rest!</q>
+his cousin exclaimed. Simon knew that if
+Solomon went all day without sleep he
+would be frightfully peevish by nightfall.
+</p>
+
+<p>
+<q>Well&mdash;I'll try to get forty winks,</q>
+Solomon promised. <q>But I don't believe
+I can get more than that, because I have
+so much on my mind that I'm sure to be
+wakeful.</q>
+</p>
+
+<pb n="093" /><anchor id="Pg093" />
+<p>
+Simon Screecher was somewhat worried
+as they parted. His wailing, tremulous
+whistle, which floated through the shadowy 
+woods, showed that he was far from
+happy.
+</p>
+
+
+<pb n="094" /><anchor id="Pg094" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="XVIII - A Cousinly Quarrel" />
+<index index="pdf" level1="XVIII - A Cousinly Quarrel" />
+<head>XVIII<lb />
+XVIII - A Cousinly Quarrel</head>
+
+<p>
+It proved to be just as Solomon Owl had
+told his cousin, Simon Screecher. Solomon
+had so much on his mind that he had
+no sooner fallen asleep than he awoke
+again, to study over the question that perplexed
+him. He certainly did not want
+Simon to have twice as many mice as he.
+But Simon's argument was a good one.
+He had said that since Solomon was more
+than twice his size, it was proper that he
+should have a chance to grow. And everybody
+knew&mdash;Solomon reflected&mdash;everybody
+knew that <hi rend="font-style: italic">eating</hi> made one larger.
+</p>
+
+<pb n="095" /><anchor id="Pg095" />
+<p>
+The longer Solomon pondered, the farther 
+he seemed from any answer that he
+liked. And he had begun to fear that he
+would not succeed in getting more than
+thirty-nine winks all day&mdash;instead of
+forty&mdash;when all at once an idea came into
+his mind.
+</p>
+
+<p>
+Solomon knew right away that he had
+nothing more to worry about. He dropped
+into a sound sleep with a pleasant smile
+upon his usually solemn face. And when
+he opened his eyes again it was time for
+Simon Screecher to arrive.
+</p>
+
+<p>
+Yes! Solomon could hear his cousin's
+whistle even then. So he hurried to his
+door; and there was Simon, sitting on a
+limb of the big hemlock waiting for him!
+</p>
+
+<p>
+<q>It's all right!</q> said Solomon to his
+cousin. <q>I agree to your suggestion.
+We'll hunt together again to-night; and if
+you will give me one-third of all the mice
+you catch, I promise to give you two-thirds 
+of all the mice that I capture.</q>
+</p>
+<pb n="096" /><anchor id="Pg096" />
+
+<p>
+<q>Good!</q> said Simon Screecher. And
+he looked vastly relieved. <q>Just hoot
+when you have any mice for me!</q>
+</p>
+
+<p>
+<q>Whistle when you have any for me!</q>
+Solomon Owl replied.
+</p>
+
+<p>
+And at that they started out for their
+night's sport. It was not long before
+Simon Screecher's well known whistle
+brought Solomon hurrying to him. Simon
+already had three mice, one of which he
+gave to Solomon, according to their agreement.
+</p>
+
+<p>
+That same thing happened several
+times; until at last Simon Screecher began
+to grumble.
+</p>
+
+<p>
+<q>What's the matter?</q> he asked his
+cousin. <q>You are not hooting, as you
+promised you would.</q>
+</p>
+
+<p>
+<q>But I haven't caught any mice yet!</q>
+Solomon Owl replied.
+</p>
+
+<p rend="text-align: center"><anchor id="image-003" />
+<figure rend="w95" url="images/image-003.jpg">
+<head rend="text-align: center"><q>It's All Right,</q> Said Solomon
+</head>
+<figDesc><hi rend="font-style: italic">Illustration 3</hi></figDesc>
+</figure></p><p></p>
+
+<pb n="097" /><anchor id="Pg097" />
+
+<p>
+Again and again and again Simon's
+call summoned Solomon. But not once
+did Solomon's summon Simon. And all
+the time Simon Screecher grew more discontented.
+Toward the end of the night
+he declared flatly that he wasn't going to
+hunt any more with his cousin.
+</p>
+
+<p>
+<q>I've done exactly as I agreed!</q> Solomon
+Owl protested.
+</p>
+
+<p>
+<q>You're altogether too slow and
+clumsy,</q> Simon Screecher told him bluntly.
+<q>If I'm going to hunt with anybody
+after this I'm going to choose someone
+that's as spry as I am. There's no sense
+in my working for you. Here I've toiled
+all night long and I'm still hungry, for
+I've given you a third of my food.</q>
+</p>
+
+<p>
+They parted then&mdash;and none too pleasantly.
+</p>
+
+<pb n="098" /><anchor id="Pg098" />
+<p>
+In Simon's whistle, as he flew away toward
+his home, there was unmistakable
+anger. But Solomon Owl's answering
+hoots&mdash;while they were not exactly sweet&mdash;seemed
+to carry more than a hint of
+laughter.
+</p>
+
+<p>
+One would naturally think that Solomon
+might have been even hungrier than
+his small cousin. But it was not so. He
+had had more to eat than usual; for he had
+been very busy catching locusts and katydids&mdash;and
+frogs, too. Solomon Owl had
+not tried to catch a single mouse that
+night.
+</p>
+
+<p>
+You know now the idea that had come
+to him while he was lying awake in his
+house during the daytime. He had made
+up his mind that he would not hunt for
+<hi rend="font-style: italic">mice</hi>. And since he had not promised
+Simon to give him anything else, there was
+no reason why he should not eat all the
+frogs and katydids and locusts that he
+could find.
+</p>
+
+
+<pb n="099" /><anchor id="Pg099" />
+
+<p>
+Perhaps it was not surprising that
+Simon Screecher never guessed the truth.
+But he seemed to know that there was
+something queer about that night's hunting,
+for he never came to Solomon Owl's
+house again.
+</p>
+
+
+<pb n="100" /><anchor id="Pg100" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="XIX - The Sleet Storm" />
+<index index="pdf" level1="XIX - The Sleet Storm" />
+<head>XIX<lb />
+The Sleet Storm</head>
+
+<p>
+It was winter. And for several days a
+strong south wind had swept up Pleasant
+Valley. That&mdash;as Solomon Owl knew
+very well&mdash;that meant a thaw was coming.
+He was not sorry, because the weather had
+been bitterly cold.
+</p>
+
+<p>
+Well, the thaw came. And the weather
+grew so warm that Solomon Owl could
+stay out all night without once feeling
+chilled. He found the change so agreeable
+that he strayed further from home
+than was his custom. Indeed, he was far
+away on the other side of Blue Mountain
+at midnight, when it began to rain.
+</p>
+
+
+<pb n="101" /><anchor id="Pg101" />
+
+<p>
+Now, that was not quite so pleasant.
+But still Solomon did not mind greatly. It
+was not until later that he began to feel
+alarmed, when he noticed that flying did
+not seem so easy as usual.
+</p>
+
+<p>
+Solomon had grown heavy all at once&mdash;and
+goodness knows it was not because he
+had overeaten, for food was scarce at that
+season of the year. Moreover, Solomon's
+wings were strangely stiff. When he
+moved them they <hi rend="font-style: italic">crackled</hi>.
+</p>
+
+<p>
+<q>It must be my joints,</q> he said to himself.
+<q>I'm afraid this wetting has given
+me rheumatism.</q> So he started home at
+once&mdash;though it was only midnight. But
+the further he went, the worse he felt&mdash;and
+the harder it was to fly.
+</p>
+
+<p>
+<q>I'll have to rest a while,</q> he said to
+himself at last. So he alighted on a limb;
+for he was more tired than he had ever
+been in all his life.
+</p>
+
+
+<pb n="102" /><anchor id="Pg102" />
+
+<p>
+But he soon felt so much better that he
+was ready to start on again. And then,
+to his dismay, Solomon Owl found that he
+could hardly stir. The moment he left
+his perch he floundered down upon the
+ground. And though he tried his hardest,
+he couldn't reach the tree again.
+</p>
+
+<p>
+The rain was still beating down steadily.
+And Solomon began to think it a bad
+night to be out. What was worse, the
+weather was fast turning cold.
+</p>
+
+<p>
+<q>I'm afraid I'll have to stay in bed a
+week after this,</q> he groaned. <q>If I sit
+here long, as wet as I am, while the thaw
+turns into a <hi rend="font-style: italic">freeze</hi>, I shall certainly be ill.</q>
+</p>
+
+<p>
+Now, if it hadn't been for the rain, Solomon
+Owl would have had no trouble at all.
+Or if it hadn't been for the freezing cold
+he would have been in no difficulty.
+Though he didn't know it, his trouble was
+simply this: The rain froze upon him as
+</p>
+
+
+<pb n="103" /><anchor id="Pg103" />
+
+<p>
+fast as it fell, covering him with a coating
+of ice. It was no wonder that he felt
+strangely heavy&mdash;no wonder that he
+couldn't fly.
+</p>
+
+<p>
+There he crouched on the ground, while
+the rain and sleet beat upon him. And
+the only comforting thought that entered
+his head was that on so stormy a night
+Tommy Fox and Fatty Coon would be
+snug and warm in their beds. <hi rend="font-style: italic">They</hi>
+wouldn't go out in such weather.
+</p>
+
+<p>
+And Solomon Owl wished that he, too,
+had stayed at home that night.
+</p>
+
+<p>
+From midnight until almost dawn Solomon
+Owl sat there. Now and then he tried
+to fly. But it was no use. He could
+scarcely raise himself off the ground.
+</p>
+
+<p>
+At last he decided he would have to <hi rend="font-style: italic">walk</hi>
+home. Fortunately, a hard crust covered
+the soft snow. So Solomon started off on
+his long journey.
+</p>
+
+
+<pb n="104" /><anchor id="Pg104" />
+
+<p>
+Flying, Solomon could have covered the
+distance in a few minutes. But he was a
+slow walker. By the time he reached his
+home among the hemlocks the sun was
+shining brightly&mdash;for the rain had stopped
+before daybreak.
+</p>
+
+<p>
+Solomon wondered how he would ever
+succeed in reaching his doorway, high up
+in the hollow tree. He gazed helplessly
+upward. And as he sat there mournfully
+the bright sunshine melted the ice that
+bound his wings. After a time he discovered
+that he could move freely once more.
+And then he rose quickly in the air and in
+a twinkling he had disappeared into the
+darkness of his home&mdash;that darkness
+which to him was always so pleasant.
+</p>
+
+
+<pb n="105" /><anchor id="Pg105" />
+
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="XX - A Pair Of Red-Heads" />
+<index index="pdf" level1="XX - A Pair Of Red-Heads" />
+<head>XX<lb />
+A Pair Of Red-Heads</head>
+
+<p>
+In the woods there was hardly one of Solomon
+Owl's neighbors that couldn't point
+out the big hemlock tree where he lived.
+And mischievous fellows like Reddy
+Woodpecker sometimes annoyed Solomon
+a good deal by rapping loudly on his door.
+When he thrust his head angrily out of his
+house and blinked in the sunlight, his tormentors
+would skip away and laugh. They
+laughed because they knew that they had
+awakened Solomon Owl. And they dodged
+out of his reach because he was always ill-tempered
+when anybody disturbed his rest
+in the daytime.
+</p>
+
+
+<pb n="106" /><anchor id="Pg106" />
+
+<p>
+Solomon Owl did not mind so <hi rend="font-style: italic">very</hi> much
+so long as that trick was not played on
+him too often. But after a time it became
+one of Reddy Woodpecker's favorite
+sports. Not only once, but several times
+a day did he go to the hemlock grove to
+hammer upon Solomon's hollow tree. And
+each time that he brought Solomon Owl
+to his door Reddy Woodpecker laughed
+more loudly than ever before.
+</p>
+
+<p>
+Once Solomon forgot to take off his
+nightcap (though he wore it in the daytime,
+it really was a nightcap). And Reddy
+Woodpecker was so amused that he
+shouted at the top of his lungs.
+</p>
+
+<p>
+<q>What's the joke?</q> asked Solomon Owl
+in his deep, rumbling voice. He tried to
+look very severe. But it is hard to look
+any way except funny with a nightcap on
+one's head.
+</p>
+
+<pb n="107" /><anchor id="Pg107" />
+<p>
+As luck had it, Jasper Jay came hurrying 
+up just then. He had heard Reddy
+Woodpecker's laughter. And if there
+was a joke he wanted to enjoy it, too.
+</p>
+
+<p>
+Jasper Jay, alighting in a small hemlock
+near Reddy Woodpecker, asked the
+same question that Solomon Owl had just
+put to his rude caller.
+</p>
+
+<p>
+<q>What's the joke?</q> inquired Jasper
+Jay.
+</p>
+
+<p>
+Reddy could not speak. He was rocking
+back and forth upon a limb, choking
+and gasping for breath. But he managed
+to point to the big tree where Solomon Owl
+lived.
+</p>
+
+<p>
+And when Jasper looked, and saw Solomon's
+great, round, pale, questioning face,
+all tied up in a red nightcap, he began to
+scream.
+</p>
+
+<pb n="108" /><anchor id="Pg108" />
+<p>
+They were no ordinary screams&mdash;those
+shrieks of Jasper Jay's. That blue-coated
+rascal was the noisiest of all the feathered
+folk in Pleasant Valley. And now he fairly
+made the woods echo with his hoarse
+cries.
+</p>
+
+<p>
+<q>This is the funniest sight I've ever
+seen!</q> Jasper Jay said at last, to nobody
+in particular. <q>I declare, there's a pair
+of them!</q>
+</p>
+
+<p>
+At that, Reddy Woodpecker suddenly
+stopped laughing.
+</p>
+
+<p>
+<q>A pair of what?</q> he asked.
+</p>
+
+<p>
+<q>A pair of red-heads, of course!</q> Jasper
+Jay replied. <q>You've a red cap&mdash;and
+so has he!</q> Jasper pointed at Solomon
+Owl (a very rude thing to do!).
+</p>
+
+<p>
+Then two things happened all at once.
+Solomon Owl snatched off his red 
+night-cap&mdash;which he had quite forgotten. And
+Reddy Woodpecker dashed at Jasper
+Jay. He couldn't pull off <hi rend="font-style: italic">his</hi> red cap, for
+it grew right on his head.
+</p>
+
+<pb n="109" /><anchor id="Pg109" />
+<p>
+<q>So that's what you're laughing at, is
+it?</q> he cried angrily. And then nobody
+laughed any more&mdash;that is, nobody but
+Solomon Owl.
+</p>
+
+<p>
+Solomon was so pleased by the fight that
+followed between Jasper Jay and Reddy
+Woodpecker that his deep, rumbling
+laughter could be heard for half an hour&mdash;even
+if it <hi rend="font-style: italic">was</hi> midday. <q><hi rend="font-style: italic">Wha-wha!
+Whoo-ah!</hi></q> The sound reached the ears
+of Farmer Green, who was just crossing
+a neighboring field, on his way home to
+dinner.
+</p>
+
+<p>
+<q>Well, well!</q> he exclaimed. <q>I wonder
+what's happened to that old owl!
+Something must have tickled him&mdash;for I
+never heard an owl laugh in broad daylight
+before.</q>
+</p>
+
+
+<pb n="110" /><anchor id="Pg110" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="XXI - At Home In The Haystack" />
+<index index="pdf" level1="XXI - At Home In The Haystack" />
+<head>XXI<lb />
+At Home In The Haystack</head>
+
+<p>
+After what happened when he came to
+his door without remembering to take off
+his red nightcap, Solomon Owl hoped that
+Reddy Woodpecker would stop teasing
+him.
+</p>
+
+<p>
+But it was not so. Having once viewed
+Solomon's red cap, Reddy Woodpecker
+wanted to see it some more. So he came
+again and again and knocked on Solomon's
+door.
+</p>
+
+<pb n="111" /><anchor id="Pg111" />
+<p>
+Solomon Owl, however, remembered
+each time to remove his nightcap before
+sticking his head out. And it might be
+said that neither of them was exactly
+pleased. For Reddy Woodpecker was
+disappointed; and Solomon Owl was angry.
+</p>
+
+<p>
+Not a day passed that Reddy Woodpecker
+didn't disturb Solomon's rest at
+least a dozen times. Perhaps if Solomon
+had just kept still inside his house Reddy
+would have grown tired of bothering him.
+But Solomon Owl&mdash;for all he looked so
+wise&mdash;never thought of that.
+</p>
+
+<p>
+But he saw before a great while that he
+would have to make a change of some
+sort&mdash;if he wanted to enjoy a good, quiet
+sleep again.
+</p>
+
+<p>
+For a long time Solomon Owl pondered.
+It was a great puzzle&mdash;to know just how to
+outwit Reddy Woodpecker. And Solomon
+almost despaired of finding a way out
+of the difficulty. But at last an idea came
+to him, all in a flash. He would take his
+daytime naps somewhere else!
+</p>
+
+
+<pb n="112" /><anchor id="Pg112" />
+
+<p>
+Solomon spent several nights looking 
+for a good place to pass his days. And in
+the end he decided on the meadow. It
+would be convenient, he thought, when he
+was hunting meadow mice at dawn, if he
+could stay right there, without bothering
+to go into the woods to sleep.
+</p>
+
+<p>
+Since there were no trees in the
+meadow, but only a few scrubby bushes
+along the stone wall, one might naturally
+make the mistake of thinking that there
+could not possibly be a nook of any kind
+that would suit Solomon Owl, who could
+never sleep soundly unless his bedroom
+was quite dark.
+</p>
+
+<p>
+But there was one hiding place that Solomon
+liked almost as well as his home in
+the hollow hemlock. And that was Farmer
+Green's haystack. He burrowed into one
+side of it and made himself a snug chamber,
+which was as dark as a pocket&mdash;and
+ever so much quieter. What pleased Solomon
+most, however, was this: Nobody
+knew about that new retreat except himself.
+</p>
+<pb n="113" /><anchor id="Pg113" />
+
+<p>
+Even if Reddy Woodpecker should succeed
+in finding it, he never could disturb
+Solomon by drumming upon the haystack.
+If Reddy tried that trick, his bill would
+merely sink noiselessly into the hay.
+</p>
+
+<p>
+So Solomon Owl at last had a good day's
+rest. And when he met Reddy Woodpecker
+just after sunset, Solomon was
+feeling so cheerful that he said <q>Good-evening!</q>
+quite pleasantly, before he remembered
+that it was Reddy who had
+teased him so often.
+</p>
+
+<p>
+<q>Good-evening!</q> Reddy Woodpecker
+replied. He seemed much surprised that
+Solomon Owl should be so agreeable.
+<q>Can you hear me?</q> Reddy asked him.
+</p>
+
+<p>
+<q>Perfectly!</q> said Solomon.
+</p>
+
+
+<pb n="114" /><anchor id="Pg114" />
+
+<p>
+<q>That's strange!</q> Reddy Woodpecker
+exclaimed. <q>I was almost sure you had
+suddenly grown deaf.</q> And he could not
+understand why Solomon Owl laughed
+loud and long.
+</p>
+
+<p>
+<q><hi rend="font-style: italic">Wha-wha! Whoo-ah!</hi></q> Solomon's
+deep-voiced laughter rolled and echoed
+through the woodland.
+</p>
+
+<p>
+But Reddy Woodpecker did not laugh
+at all.
+</p>
+
+<pb n="115" /><anchor id="Pg115" />
+</div>
+
+<div rend="page-break-before: always">
+<index index="toc" level1="XXII - It Was Solomon's Fault" />
+<index index="pdf" level1="XXII - It Was Solomon's Fault" />
+<head>XXII<lb />
+It Was Solomon's Fault</head>
+
+<p>
+Reddy Woodpecker had a very good reason
+for not laughing when he met Solomon
+Owl. Of course, he knew nothing
+whatever of Solomon's new hiding place
+in the haystack. And that very morning
+Reddy had invited a party of friends to
+go with him to the hemlock grove where
+Solomon Owl had always lived, <q>to have
+some fun,</q> as Reddy had explained.
+</p>
+
+<p>
+For a long time he had knocked and
+hammered and pounded at Solomon Owl's
+door. But for once Solomon's great pale
+face did not appear.
+</p>
+
+<pb n="116" /><anchor id="Pg116" />
+<p>
+<q>Where's the fun?</q> Reddy's friends
+had wanted to know, after they had
+waited until they were impatient.
+</p>
+
+<p>
+And Reddy Woodpecker could only
+shake his head and say:
+</p>
+
+<p>
+<q>I can't understand it! It's never happened
+like this before. I'm afraid Solomon
+Owl has lost his hearing.</q>
+</p>
+
+<p>
+Reddy Woodpecker's friends were no
+more polite than he. And they began to
+jeer at him.
+</p>
+
+<p>
+<q>You didn't hammer loud enough,</q> one
+of them told him.
+</p>
+
+<p>
+So he set to work again and rapped and
+rapped until his head felt as if it would
+fly off, and his neck began to ache.
+</p>
+
+<p>
+Still, Solomon Owl did not appear.
+And the party broke up in something very
+like a quarrel. For Reddy Woodpecker
+lost his temper when his friends teased
+him; and a good many unpleasant remarks
+passed back and forth.
+</p>
+
+
+<pb n="117" /><anchor id="Pg117" />
+
+<p>
+Somehow, Reddy felt that it was all Solomon
+Owl's fault, because he hadn't come
+to the door.
+</p>
+
+<p>
+Of course, Reddy had no means of
+knowing that all that time Solomon Owl
+was sleeping peacefully in Farmer
+Green's haystack in the meadow, a quarter
+of a mile away.
+</p>
+
+<p>
+It was a good joke on Reddy Woodpecker.
+And though no one had told Solomon
+Owl about it, he was not so stupid
+that he couldn't guess at least <hi rend="font-style: italic">a little</hi> that
+had happened.
+</p>
+<milestone unit="tb" />
+<p>
+Solomon Owl continued to have a very
+pleasant time living in the meadow. Since
+there were many mice right close at hand,
+little by little he visited the woods less and
+less. And there came a time at last when
+he hardly left the meadow at all.
+</p>
+
+<pb n="118" /><anchor id="Pg118" />
+<p>
+Not flying any more than he could help,
+and eating too much, and sleeping very
+soundly each day, he grew stouter than
+ever, until his friends hardly knew him
+when they saw him.
+</p>
+
+<p>
+<q>Solomon Owl is a sight&mdash;he's so fat!</q>
+people began to say.
+</p>
+
+<p>
+But his size never worried Solomon Owl
+in the least. When he became too big for
+his doorway in the haystack, it was a simple
+matter to make the opening larger&mdash;much
+simpler than it would have been to
+make himself <hi rend="font-style: italic">smaller</hi>. And that was another
+reason why he was delighted with
+his new home.
+</p>
+
+<p>
+At last, however, something happened
+to put an end to his lazy way of living.
+One day the sound of men's voices awakened
+him, when he was having a good nap
+in the haystack. And he felt his bedroom
+quiver as if an earthquake had shaken it.
+</p>
+
+<pb n="119" /><anchor id="Pg119" />
+<p>
+Scrambling to his doorway and peeping
+slyly out, Solomon saw a sight that made
+him very angry. A hayrack stood alongside
+the stack; and on it stood Farmer
+Green and his hired man. Each had a
+pitchfork in his hands, with which he tore
+great forkfuls of hay off the stack and
+piled it upon the wagon.        
+</p>
+
+<p>
+Solomon Owl knew then that his fine  
+hiding place was going to be spoiled. As
+soon as the horses had pulled the load of
+hay away, with Farmer Green and the
+hired man riding on top of it, Solomon
+Owl crept out of his snug bedroom and 
+hurried off to the woods.
+</p>
+
+<p>
+He was so fat that it was several days
+before he could squeeze inside his old home
+in the hollow hemlock. And for the time
+being he had to sit on a limb and sleep  
+in the daylight as best he could.
+</p>
+
+<pb n="120" /><anchor id="Pg120" />
+<p>
+But to his surprise, Reddy Woodpecker
+troubled him no more.  Reddy had
+drummed so hard on Solomon's door, in
+the effort to awake him when he wasn't
+there, that Aunt Polly Woodchuck told
+him he would ruin his bill, if he didn't look
+out. And since the warning thoroughly
+alarmed him, Reddy stopped visiting the
+hemlock grove.
+</p>
+
+<p>
+In time Solomon Owl grew to look like
+himself again. And people never really
+knew just what had happened to him. But
+they noticed that he always hooted angrily
+whenever anybody mentioned Farmer
+Green's name.
+</p>
+
+<p>
+<lb /><lb />
+THE END
+</p>
+
+</div>
+
+</body>
+
+  <back>
+  <div rend="page-break-before: always">
+  <divGen type="pgfooter" />
+  </div>
+  </back>
+
+    </text>
+</TEI.2>
+
+<!--
+A Word from Project Gutenberg
+
+
+This file should be named 16663-0.txt or 16663-0.zip.
+
+This and all associated files of various formats will be found in:
+
+
+      http://www.gutenberg.org/dirs/1/6/6/6/16663/
+
+
+Updated editions will replace the previous one — the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the Project
+Gutenberg-tm concept and trademark. Project Gutenberg is a registered
+trademark, and may not be used if you charge for the eBooks, unless you
+receive specific permission. If you do not charge anything for copies of
+this eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given away
+— you may do practically _anything_ with public domain eBooks.
+Redistribution is subject to the trademark license, especially commercial
+redistribution.
+
+
+
+
+The Full Project Gutenberg License
+
+
+_Please read this before you distribute or use this work._
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work (or
+any other work associated in any way with the phrase “Project Gutenberg”),
+you agree to comply with all the terms of the Full Project Gutenberg-tm
+License (available with this file or online
+(http://www.gutenberg.org/license)).
+
+
+
+Section 1.
+
+
+  General Terms of Use & Redistributing Project Gutenberg-tm electronic
+                                  works
+
+
+1.A.
+
+
+By reading or using any part of this Project Gutenberg-tm electronic work,
+you indicate that you have read, understand, agree to and accept all the
+terms of this license and intellectual property (trademark/copyright)
+agreement. If you do not agree to abide by all the terms of this
+agreement, you must cease using and return or destroy all copies of
+Project Gutenberg-tm electronic works in your possession. If you paid a
+fee for obtaining a copy of or access to a Project Gutenberg-tm electronic
+work and you do not agree to be bound by the terms of this agreement, you
+may obtain a refund from the person or entity to whom you paid the fee as
+set forth in paragraph 1.E.8.
+
+
+1.B.
+
+
+“Project Gutenberg” is a registered trademark. It may only be used on or
+associated in any way with an electronic work by people who agree to be
+bound by the terms of this agreement. There are a few things that you can
+do with most Project Gutenberg-tm electronic works even without complying
+with the full terms of this agreement. See paragraph 1.C below. There are
+a lot of things you can do with Project Gutenberg-tm electronic works if
+you follow the terms of this agreement and help preserve free future
+access to Project Gutenberg-tm electronic works. See paragraph 1.E below.
+
+
+1.C.
+
+
+The Project Gutenberg Literary Archive Foundation (“the Foundation” or
+PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works. Nearly all the individual works in the
+collection are in the public domain in the United States. If an individual
+work is in the public domain in the United States and you are located in
+the United States, we do not claim a right to prevent you from copying,
+distributing, performing, displaying or creating derivative works based on
+the work as long as all references to Project Gutenberg are removed. Of
+course, we hope that you will support the Project Gutenberg-tm mission of
+promoting free access to electronic works by freely sharing Project
+Gutenberg-tm works in compliance with the terms of this agreement for
+keeping the Project Gutenberg-tm name associated with the work. You can
+easily comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when you
+share it without charge with others.
+
+
+1.D.
+
+
+The copyright laws of the place where you are located also govern what you
+can do with this work. Copyright laws in most countries are in a constant
+state of change. If you are outside the United States, check the laws of
+your country in addition to the terms of this agreement before
+downloading, copying, displaying, performing, distributing or creating
+derivative works based on this work or any other Project Gutenberg-tm
+work. The Foundation makes no representations concerning the copyright
+status of any work in any country outside the United States.
+
+
+1.E.
+
+
+Unless you have removed all references to Project Gutenberg:
+
+
+1.E.1.
+
+
+The following sentence, with active links to, or other immediate access
+to, the full Project Gutenberg-tm License must appear prominently whenever
+any copy of a Project Gutenberg-tm work (any work on which the phrase
+“Project Gutenberg” appears, or with which the phrase “Project Gutenberg”
+is associated) is accessed, displayed, performed, viewed, copied or
+distributed:
+
+
+      This eBook is for the use of anyone anywhere at no cost and
+      with almost no restrictions whatsoever. You may copy it, give
+      it away or re-use it under the terms of the Project Gutenberg
+      License included with this eBook or online at
+      http://www.gutenberg.org
+
+
+1.E.2.
+
+
+If an individual Project Gutenberg-tm electronic work is derived from the
+public domain (does not contain a notice indicating that it is posted with
+permission of the copyright holder), the work can be copied and
+distributed to anyone in the United States without paying any fees or
+charges. If you are redistributing or providing access to a work with the
+phrase “Project Gutenberg” associated with or appearing on the work, you
+must comply either with the requirements of paragraphs 1.E.1 through 1.E.7
+or obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+
+1.E.3.
+
+
+If an individual Project Gutenberg-tm electronic work is posted with the
+permission of the copyright holder, your use and distribution must comply
+with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed
+by the copyright holder. Additional terms will be linked to the Project
+Gutenberg-tm License for all works posted with the permission of the
+copyright holder found at the beginning of this work.
+
+
+1.E.4.
+
+
+Do not unlink or detach or remove the full Project Gutenberg-tm License
+terms from this work, or any files containing a part of this work or any
+other work associated with Project Gutenberg-tm.
+
+
+1.E.5.
+
+
+Do not copy, display, perform, distribute or redistribute this electronic
+work, or any part of this electronic work, without prominently displaying
+the sentence set forth in paragraph 1.E.1 with active links or immediate
+access to the full terms of the Project Gutenberg-tm License.
+
+
+1.E.6.
+
+
+You may convert to and distribute this work in any binary, compressed,
+marked up, nonproprietary or proprietary form, including any word
+processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+“Plain Vanilla ASCII” or other format used in the official version posted
+on the official Project Gutenberg-tm web site (http://www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original “Plain Vanilla ASCII” or other form.
+Any alternate format must include the full Project Gutenberg-tm License as
+specified in paragraph 1.E.1.
+
+
+1.E.7.
+
+
+Do not charge a fee for access to, viewing, displaying, performing,
+copying or distributing any Project Gutenberg-tm works unless you comply
+with paragraph 1.E.8 or 1.E.9.
+
+
+1.E.8.
+
+
+You may charge a reasonable fee for copies of or providing access to or
+distributing Project Gutenberg-tm electronic works provided that
+
+    - You pay a royalty fee of 20% of the gross profits you derive from
+      the use of Project Gutenberg-tm works calculated using the method
+      you already use to calculate your applicable taxes. The fee is owed
+      to the owner of the Project Gutenberg-tm trademark, but he has
+      agreed to donate royalties under this paragraph to the Project
+      Gutenberg Literary Archive Foundation. Royalty payments must be paid
+      within 60 days following each date on which you prepare (or are
+      legally required to prepare) your periodic tax returns. Royalty
+      payments should be clearly marked as such and sent to the Project
+      Gutenberg Literary Archive Foundation at the address specified in
+      Section 4, “Information about donations to the Project Gutenberg
+      Literary Archive Foundation.”
+
+    - You provide a full refund of any money paid by a user who notifies
+      you in writing (or by e-mail) within 30 days of receipt that s/he
+      does not agree to the terms of the full Project Gutenberg-tm
+      License. You must require such a user to return or destroy all
+      copies of the works possessed in a physical medium and discontinue
+      all use of and all access to other copies of Project Gutenberg-tm
+      works.
+
+    - You provide, in accordance with paragraph 1.F.3, a full refund of
+      any money paid for a work or a replacement copy, if a defect in the
+      electronic work is discovered and reported to you within 90 days of
+      receipt of the work.
+
+    - You comply with all other terms of this agreement for free
+      distribution of Project Gutenberg-tm works.
+
+
+1.E.9.
+
+
+If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set forth in
+this agreement, you must obtain permission in writing from both the
+Project Gutenberg Literary Archive Foundation and Michael Hart, the owner
+of the Project Gutenberg-tm trademark. Contact the Foundation as set forth
+in Section 3 below.
+
+
+1.F.
+
+
+1.F.1.
+
+
+Project Gutenberg volunteers and employees expend considerable effort to
+identify, do copyright research on, transcribe and proofread public domain
+works in creating the Project Gutenberg-tm collection. Despite these
+efforts, Project Gutenberg-tm electronic works, and the medium on which
+they may be stored, may contain “Defects,” such as, but not limited to,
+incomplete, inaccurate or corrupt data, transcription errors, a copyright
+or other intellectual property infringement, a defective or damaged disk
+or other medium, a computer virus, or computer codes that damage or cannot
+be read by your equipment.
+
+
+1.F.2.
+
+
+LIMITED WARRANTY, DISCLAIMER OF DAMAGES — Except for the “Right of
+Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg
+Literary Archive Foundation, the owner of the Project Gutenberg-tm
+trademark, and any other party distributing a Project Gutenberg-tm
+electronic work under this agreement, disclaim all liability to you for
+damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE
+NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH
+OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3. YOU AGREE THAT THE
+FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT
+WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL,
+PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY
+OF SUCH DAMAGE.
+
+
+1.F.3.
+
+
+LIMITED RIGHT OF REPLACEMENT OR REFUND — If you discover a defect in this
+electronic work within 90 days of receiving it, you can receive a refund
+of the money (if any) you paid for it by sending a written explanation to
+the person you received the work from. If you received the work on a
+physical medium, you must return the medium with your written explanation.
+The person or entity that provided you with the defective work may elect
+to provide a replacement copy in lieu of a refund. If you received the
+work electronically, the person or entity providing it to you may choose
+to give you a second opportunity to receive the work electronically in
+lieu of a refund. If the second copy is also defective, you may demand a
+refund in writing without further opportunities to fix the problem.
+
+
+1.F.4.
+
+
+Except for the limited right of replacement or refund set forth in
+paragraph 1.F.3, this work is provided to you ’AS-IS,’ WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+
+1.F.5.
+
+
+Some states do not allow disclaimers of certain implied warranties or the
+exclusion or limitation of certain types of damages. If any disclaimer or
+limitation set forth in this agreement violates the law of the state
+applicable to this agreement, the agreement shall be interpreted to make
+the maximum disclaimer or limitation permitted by the applicable state
+law. The invalidity or unenforceability of any provision of this agreement
+shall not void the remaining provisions.
+
+
+1.F.6.
+
+
+INDEMNITY — You agree to indemnify and hold the Foundation, the trademark
+owner, any agent or employee of the Foundation, anyone providing copies of
+Project Gutenberg-tm electronic works in accordance with this agreement,
+and any volunteers associated with the production, promotion and
+distribution of Project Gutenberg-tm electronic works, harmless from all
+liability, costs and expenses, including legal fees, that arise directly
+or indirectly from any of the following which you do or cause to occur:
+(a) distribution of this or any Project Gutenberg-tm work, (b) alteration,
+modification, or additions or deletions to any Project Gutenberg-tm work,
+and (c) any Defect you cause.
+
+
+
+Section  2.
+
+
+          Information about the Mission of Project Gutenberg-tm
+
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers. It exists because
+of the efforts of hundreds of volunteers and donations from people in all
+walks of life.
+
+Volunteers and financial support to provide volunteers with the assistance
+they need, is critical to reaching Project Gutenberg-tm’s goals and
+ensuring that the Project Gutenberg-tm collection will remain freely
+available for generations to come. In 2001, the Project Gutenberg Literary
+Archive Foundation was created to provide a secure and permanent future
+for Project Gutenberg-tm and future generations. To learn more about the
+Project Gutenberg Literary Archive Foundation and how your efforts and
+donations can help, see Sections 3 and 4 and the Foundation web page at
+http://www.pglaf.org.
+
+
+
+Section 3.
+
+
+   Information about the Project Gutenberg Literary Archive Foundation
+
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the state of
+Mississippi and granted tax exempt status by the Internal Revenue Service.
+The Foundation’s EIN or federal tax identification number is 64-6221541.
+Its 501(c)(3) letter is posted at http://www.pglaf.org/fundraising.
+Contributions to the Project Gutenberg Literary Archive Foundation are tax
+deductible to the full extent permitted by U.S. federal laws and your
+state’s laws.
+
+The Foundation’s principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations. Its business office is located at 809 North
+1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org. Email contact links and up to date contact information
+can be found at the Foundation’s web site and official page at
+http://www.pglaf.org
+
+For additional contact information:
+
+
+      Dr. Gregory B. Newby
+      Chief Executive and Director
+      gbnewby@pglaf.org
+
+
+
+Section 4.
+
+
+  Information about Donations to the Project Gutenberg Literary Archive
+                                Foundation
+
+
+Project Gutenberg-tm depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing the
+number of public domain and licensed works that can be freely distributed
+in machine readable form accessible by the widest array of equipment
+including outdated equipment. Many small donations ($1 to $5,000) are
+particularly important to maintaining tax exempt status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United States.
+Compliance requirements are not uniform and it takes a considerable
+effort, much paperwork and many fees to meet and keep up with these
+requirements. We do not solicit donations in locations where we have not
+received written confirmation of compliance. To SEND DONATIONS or
+determine the status of compliance for any particular state visit
+http://www.pglaf.org
+
+While we cannot and do not solicit contributions from states where we have
+not met the solicitation requirements, we know of no prohibition against
+accepting unsolicited donations from donors in such states who approach us
+with offers to donate.
+
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside the
+United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation methods
+and addresses. Donations are accepted in a number of other ways including
+checks, online payments and credit card donations. To donate, please
+visit: http://www.pglaf.org/donate
+
+
+
+Section 5.
+
+
+     General Information About Project Gutenberg-tm electronic works.
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared with
+anyone. For thirty years, he produced and distributed Project Gutenberg-tm
+eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S. unless a
+copyright notice is included. Thus, we do not necessarily keep eBooks in
+compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook’s eBook
+number, often in several formats including plain vanilla ASCII, compressed
+(zipped), HTML and others.
+
+Corrected _editions_ of our eBooks replace the old file and take over the
+old filename and etext number. The replaced older file is renamed.
+_Versions_ based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+
+      http://www.gutenberg.org
+
+
+This Web site includes information about Project Gutenberg-tm, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe to
+our email newsletter to hear about new eBooks.
+
+-->
