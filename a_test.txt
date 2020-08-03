@@ -1,0 +1,1 @@
+We can write this data to a new file by storing it as a string.
