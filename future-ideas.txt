@@ -1,0 +1,12 @@
+## Holding ground for future ideas or things that are out of scope
+
+Processing text
+
+* pickling / serializing files
+* python 2 vs 3 and encoding
+* filtering by pos tagging
+* APIs
+* [HTRC](htrc.ipynb)
+Nuts and Bolts
+* NLP Pipeline
+* Spacy vs NLTK

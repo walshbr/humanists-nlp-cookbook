@@ -1,0 +1,261 @@
+﻿
+
+
+
+
+
+
+The Iliad of Homer
+Translated by Alexander Pope
+Homer
+Alexander Pope
+
+
+Edition 1
+
+
+Project Gutenberg
+September 2006
+6130
+
+This eBook is for the use of anyone anywhere at no cost and
+        with almost no restrictions whatsoever. You may copy it, give it
+        away or re-use it under the terms of the Project Gutenberg
+        License online at www.gutenberg.org/license
+
+
+
+
+
+
+
+
+
+
+
+Library of Congress Classification
+
+
+
+
+
+
+
+
+
+
+
+
+
+July 2004
+
+Anne Soulard,
+Juliet Sutherland,
+Charles Franks, and
+The Online Distributed Proofreading Team
+
+Posted to Project Gutenberg
+
+
+September 2006
+
+Joshua Hutchinson
+
+Converted to PGTEI v.04
+
+
+
+
+
+    figure           { text-align: center; page-float: 'htbp' }
+    .floatleft       { float: left;  margin-right: 2em }
+    .floatright      { float: right; margin-left:  2em }
+    .w90             { }
+    .w50             { }
+    .w05             { }
+    @media pdf {
+      .w90             { width: 90% }
+      .w50             { width: 50% }
+      .w05             { width: 5% }
+    }
+  
+
+
+
+
+
+
+
+
+
+
+The Iliad of Homer
+        Translated by Alexander Pope,
+        with notes by the
+        Rev. Theodore Alois Buckley, M.A., F.S.A.
+        and
+        Flaxman's Designs.
+        1899
+
+
+      Contents
+      
+
+
+      Illustrations
+      
+
+
+
+
+
+INTRODUCTION.
+
+Scepticism is as much the result of knowledge, as knowledge is of
+scepticism. To be content with what we at present know, is, for the
+most part, to shut our ears against conviction; since, from the very
+gradual character of our education, we must continually forget, and
+emancipate ourselves from, knowledge previously acquired; we must set
+aside old notions and embrace fresh ones; and, as we learn, we must be
+daily unlearning something which it has cost us no small labour and
+anxiety to acquire.
+And this difficulty attaches itself more closely to an age in which
+progress has gained a strong ascendency over prejudice, and in which
+persons and things are, day by day, finding their real level, in lieu
+of their conventional value. The same principles which have swept away
+traditional abuses, and which are making rapid havoc among the revenues
+of sinecurists, and stripping the thin, tawdry veil from attractive
+superstitions, are working as actively in literature as in society. The
+credulity of one writer, or the partiality of another, finds as
+powerful a touchstone and as wholesome a chastisement in the healthy
+scepticism of a temperate class of antagonists, as the dreams of
+conservatism, or the impostures of pluralist sinecures in the Church.
+History and tradition, whether of ancient or comparatively recent
+times, are subjected to very different handling from that which the
+indulgence or credulity of former ages could allow. Mere statements are
+jealously watched, and the motives of the writer form as important an
+ingredient in the analysis of his history, as the facts he records.
+Probability is a powerful and troublesome test; and it is by this
+troublesome standard that a large portion of historical evidence is
+sifted. Consistency is no less pertinacious and exacting in its
+demands. In brief, to write a history, we must know more than mere
+facts. Human nature, viewed under an induction of extended experience,
+is the best help to the criticism of human history. Historical
+characters can only be estimated by the standard which human
+experience, whether actual or traditionary, has furnished. To form
+correct views of individuals we must regard them as forming parts of a
+great whole—we must measure them by their relation to the mass of
+beings by whom they are surrounded, and, in contemplating the incidents
+in their lives or condition which tradition has handed down to us, we
+must rather consider the general bearing of the whole narrative, than
+the respective probability of its details.
+It is unfortunate for us, that, of some of the greatest men, we know
+least, and talk most. Homer, Socrates, and Shakespere"What," says Archdeacon Wilberforce, "is the natural root of loyalty as
+distinguished from such mere selfish desire of personal security as is
+apt to take its place in civilized times, but that consciousness of a
+natural bond among the families of men which gives a fellow-feeling to
+whole clans and nations, and thus enlists their affections in behalf of
+those time-honoured representatives of their ancient blood, in whose
+success they feel a personal interest? Hence the delight when we
+recognize an act of nobility or justice in our hereditary princes
+
+"'Tuque prior, tu parce genus qui ducis Olympo,
+Projice tela manu sanguis meus'
+
+"So strong is this feeling, that it regains an engrafted influence even
+when history witnesses that vast convulsions have rent and weakened it
+and the Celtic feeling towards the Stuarts has been rekindled in our
+own days towards the grand daughter of George the Third of Hanover.
+"Somewhat similar may be seen in the disposition to idolize those great
+lawgivers of man's race, who have given expression, in the immortal
+language of song, to the deeper inspirations of our nature. The
+thoughts of Homer or of Shakespere are the universal inheritance of the
+human race. In this mutual ground every man meets his brother, they
+have been bet forth by the providence of God to vindicate for all of us
+what nature could effect, and that, in these representatives of our
+race, we might recognize our common benefactors.'—Doctrine of the
+Incarnation, pp. 9, 10. have, perhaps, contributed more to the
+intellectual enlightenment of mankind than any other three writers who
+could be named, and yet the history of all three has given rise to a
+boundless ocean of discussion, which has left us little save the option
+of choosing which theory or theories we will follow. The personality of
+Shakespere is, perhaps, the only thing in which critics will allow us
+to believe without controversy; but upon everything else, even down to
+the authorship of plays, there is more or less of doubt and
+uncertainty. Of Socrates we know as little as the contradictions of
+Plato and Xenophon will allow us to know. He was one of the dramatis
+personae in two dramas as unlike in principles as in style. He
+appears as the enunciator of opinions as different in their tone as
+those of the writers who have handed them down. When we have read Plato
+or Xenophon, we think we know something of Socrates; when we
+have fairly read and examined both, we feel convinced that we are
+something worse than ignorant.
+It has been an easy, and a popular expedient, of late years, to deny
+the personal or real existence of men and things whose life and
+condition were too much for our belief. This system—which has often
+comforted the religious sceptic, and substituted the consolations of
+Strauss for those of the New Testament—has been of incalculable value
+to the historical theorists of the last and present centuries. To
+question the existence of Alexander the Great, would be a more
+excusable act, than to believe in that of Romulus. To deny a fact
+related in Herodotus, because it is inconsistent with a theory
+developed from an Assyrian inscription which no two scholars read in
+the same way, is more pardonable, than to believe in the good-natured
+old king whom the elegant pen of Florian has idealized—Numa
+Pompilius.
+Scepticism has attained its culminating point with respect to Homer,
+and the state of our Homeric knowledge may be described as a free
+permission to believe any theory, provided we throw overboard all
+written tradition, concerning the author or authors of the Iliad and
+Odyssey. What few authorities exist on the subject, are summarily
+dismissed, although the arguments appear to run in a circle. "This
+cannot be true, because it is not true; and, that is not true, because
+it cannot be true." Such seems to be the style, in which testimony upon
+testimony, statement upon statement, is consigned to denial and
+oblivion.
+It is, however, unfortunate that the professed biographies of Homer are
+partly forgeries, partly freaks of ingenuity and imagination, in which
+truth is the requisite most wanting. Before taking a brief review of
+the Homeric theory in its present conditions, some notice must be taken
+of the treatise on the Life of Homer which has been attributed to
+Herodotus.
+According to this document, the city of Cumae in Æolia, was, at an
+early period, the seat of frequent immigrations from various parts of
+Greece. Among the immigrants was Menapolus, the son of Ithagenes.
+Although poor, he married, and the result of the union was a girl named
+Critheis. The girl was left an orphan at an early age, under the
+guardianship of Cleanax, of Argos. It is to the indiscretion of this
+maiden that we "are indebted for so much happiness." Homer was the
+first fruit of her juvenile frailty, and received the name of
+Melesigenes, from having been born near the river Meles, in Boeotia,
+whither Critheis had been transported in order to save her reputation.
+"At this time," continues our narrative, "there lived at Smyrna a man
+named Phemius, a teacher of literature and music, who, not being
+married, engaged Critheis to manage his household, and spin the flax he
+received as the price of his scholastic labours. So satisfactory was
+her performance of this task, and so modest her conduct, that he made
+proposals of marriage, declaring himself, as a further inducement,
+willing to adopt her son, who, he asserted, would become a clever man,
+if he were carefully brought up."
+They were married; careful cultivation ripened the talents which nature
+had bestowed, and Melesigenes soon surpassed his schoolfellows in every
+attainment, and, when older, rivalled his preceptor in wisdom. Phemius
+died, leaving him sole heir to his property, and his mother soon
+followed. Melesigenes carried on his adopted father's school with great
+success, exciting the admiration not only of the inhabitants of Smyrna,
+but also of the strangers whom the trade carried on there, especially
+in the exportation of corn, attracted to that city. Among these
+visitors, one Mentes, from Leucadia, the modern Santa Maura, who
+evinced a knowledge and intelligence rarely found in those times,
+persuaded Melesigenes to close his school, and accompany him on his
+travels. He promised not only to pay his expenses, but to furnish him
+with a further stipend, urging, that, "While he was yet young, it was
+fitting that he should see with his own eyes the countries and cities
+which might hereafter be the subjects of his discourses." Melesigenes
+consented, and set out with his patron, "examining all the curiosities
+of the countries they visited, and informing himself of everything by
+interrogating those whom he met." We may also suppose, that he wrote
+memoirs of all that he deemed worthy of preservationEikos
+de min aen kai mnaemoruna panton grapherthai. Vit. Hom. in Schweigh
+Herodot t. iv. p. 299, sq. Section 6. I may observe that this Life has
+been paraphrased in English by my learned young friend K
