@@ -10,3 +10,5 @@ Processing text
 Nuts and Bolts
 * NLP Pipeline
 * Spacy vs NLTK
+
+CSV
